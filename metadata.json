@@ -1,13 +1,13 @@
 {
   "name": "Bottle360 Bridge",
   "slug": "bottle360bridge",
-  "version": "1.6.64",
-  "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-1.6.64.zip",
+  "version": "1.6.65",
+  "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-1.6.65.zip",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.7",
   "sections": {
     "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-    "changelog": "Release 1.6.64"
+    "changelog": "Release 1.6.65"
   }
 }
