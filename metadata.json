@@ -1,14 +1,14 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.3.18",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.3.18.zip",
+    "version": "4.3.19",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.3.19.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "4.3.18: Product card options you set in the styling studio (like showing a short description under each wine) now take effect on your store right away. Also fixed pages jumping to the top when moving between store pages."
+        "changelog": "4.3.19: The 'Show a short description' option now correctly displays the short description under each wine on your store listing pages."
     },
     "last_updated": "2026-06-11"
 }
