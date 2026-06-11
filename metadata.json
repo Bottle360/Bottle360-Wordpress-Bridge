@@ -1,14 +1,14 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.3.17",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.3.17.zip",
+    "version": "4.3.18",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.3.18.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "4.3.17 \u2014 studio nonce self-heal (admin-ajax); SKU-level secure purchase; OOS purchasability gating; tasting-notes vintage-key fix; form-renderer email validation; shipping-discount + tax corrections."
+        "changelog": "4.3.18: Product card options you set in the styling studio (like showing a short description under each wine) now take effect on your store right away. Also fixed pages jumping to the top when moving between store pages."
     },
-    "last_updated": "2026-06-10"
+    "last_updated": "2026-06-11"
 }
