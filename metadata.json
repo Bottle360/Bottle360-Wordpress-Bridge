@@ -1,14 +1,14 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.3.19",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.3.19.zip",
+    "version": "4.3.20",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.3.20.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "4.3.19: The 'Show a short description' option now correctly displays the short description under each wine on your store listing pages."
+        "changelog": "4.3.20: Clearer discount code feedback at checkout. When a code only works with certain delivery methods, customers now see a friendly note (it applies once they choose a delivery method) instead of a confusing error, and it updates automatically as they pick their shipping. Codes that don't apply now explain why (like a bottle minimum or a member-only code), right where the code is entered."
     },
     "last_updated": "2026-06-11"
 }
