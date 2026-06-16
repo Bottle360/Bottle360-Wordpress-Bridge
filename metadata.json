@@ -1,14 +1,14 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.4.1",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.4.1.zip",
+    "version": "4.4.2",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.4.2.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.4.1\n- Fixed an issue where saving changes to a club shipment could fail and drop you onto a blank page. Customizing upcoming shipments now saves reliably.\n- The same fix improves reliability for quantity changes, logging in, and checkout on sites that use page caching or a CDN."
+        "changelog": "What's new in 4.4.2\n- Fixed a problem where saving changes to a club shipment could leave you on a blank account page with unresponsive tabs. Your changes were still saved, but the page didn't recover until a reload. It now returns you to your membership cleanly."
     },
     "last_updated": "2026-06-11"
 }
