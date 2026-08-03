@@ -1,0 +1,14 @@
+{
+    "channel": "development",
+    "releases": [
+        {
+            "version": "4.5.1-dev.1",
+            "zip": "assets/bottle360bridge-4.5.1-dev.1.zip",
+            "sha256": "d7d667c12cfa7d1344fa368a4e98fc6a84ac3636cc9f16343d30f397e26dbe61",
+            "commit": "9e256c1e5",
+            "date": "2026-08-03T00:12:35Z",
+            "changelog": "Merge pull request #6 from Bottle360/cicd-channels",
+            "state_migration": false
+        }
+    ]
+}
