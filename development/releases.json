@@ -18,6 +18,15 @@
             "date": "2026-08-05T01:26:32Z",
             "changelog": "Merge pull request #4 from Bottle360/squarespace-monorepo-restructure",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-dev.4",
+            "zip": "assets/bottle360bridge-4.5.1-dev.4.zip",
+            "sha256": "6a884f03bc901330560a5b2491edd14c73269de73d1c7fda6f0c9e0cc055c7b2",
+            "commit": "06db86e85",
+            "date": "2026-08-05T22:52:08Z",
+            "changelog": "Merge pull request #9 from Bottle360/BD-4408-dev",
+            "state_migration": false
         }
     ]
 }
