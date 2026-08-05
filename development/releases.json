@@ -9,6 +9,15 @@
             "date": "2026-08-03T00:12:35Z",
             "changelog": "Merge pull request #6 from Bottle360/cicd-channels",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-dev.3",
+            "zip": "assets/bottle360bridge-4.5.1-dev.3.zip",
+            "sha256": "b4b173e5993d760acfe28cc0ac41d682e914ec1317180054a8387ff25164ad66",
+            "commit": "bd6741a95",
+            "date": "2026-08-05T01:26:32Z",
+            "changelog": "Merge pull request #4 from Bottle360/squarespace-monorepo-restructure",
+            "state_migration": false
         }
     ]
 }
