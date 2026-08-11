@@ -27,6 +27,15 @@
             "date": "2026-08-07T22:43:41Z",
             "changelog": "Merge pull request #8 from Bottle360/squarespace-embed-publish",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-rc.7",
+            "zip": "assets/bottle360bridge-4.5.1-rc.7.zip",
+            "sha256": "222121da1029336ff8ec9c83a1157ed0b132a89a4609ead47ac336a25e61766e",
+            "commit": "7b3d81ed4",
+            "date": "2026-08-11T11:24:30Z",
+            "changelog": "Merge pull request #13 from Bottle360/bd4251-wordpress-plugin-fixes",
+            "state_migration": false
         }
     ]
 }
