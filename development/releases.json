@@ -27,6 +27,15 @@
             "date": "2026-08-05T22:52:08Z",
             "changelog": "Merge pull request #9 from Bottle360/BD-4408-dev",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-dev.8",
+            "zip": "assets/bottle360bridge-4.5.1-dev.8.zip",
+            "sha256": "00a9b7b3060ccaad1f6dcfe08aed487c096e89a2d8db18a7aace1f456e20186c",
+            "commit": "06db86e85",
+            "date": "2026-08-11T19:34:50Z",
+            "changelog": "Merge pull request #9 from Bottle360/BD-4408-dev",
+            "state_migration": false
         }
     ]
 }
