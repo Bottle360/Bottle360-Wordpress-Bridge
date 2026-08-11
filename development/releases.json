@@ -45,6 +45,15 @@
             "date": "2026-08-11T19:39:16Z",
             "changelog": "Merge pull request #13 from Bottle360/bd4251-wordpress-plugin-fixes",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-dev.10",
+            "zip": "assets/bottle360bridge-4.5.1-dev.10.zip",
+            "sha256": "407482032890f21001f329c5c869d5038076ff728dbc16660586d8962f270a3c",
+            "commit": "90b2c2552",
+            "date": "2026-08-11T20:19:58Z",
+            "changelog": "Merge pull request #15 from Bottle360/BD-4388-merge-dev",
+            "state_migration": false
         }
     ]
 }
