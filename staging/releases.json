@@ -45,6 +45,15 @@
             "date": "2026-08-11T20:25:54Z",
             "changelog": "Merge pull request #16 from Bottle360/BD-4388-merge-staging",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-rc.12",
+            "zip": "assets/bottle360bridge-4.5.1-rc.12.zip",
+            "sha256": "dea4b0f83884cca4f7e9c5166d0ad6c0df1c02d93fc749be6324ee93b5f9d0b2",
+            "commit": "32230b8b5",
+            "date": "2026-08-12T07:28:39Z",
+            "changelog": "Merge pull request #14 from Bottle360/bd4251-cart-minmax-messaging",
+            "state_migration": false
         }
     ]
 }
