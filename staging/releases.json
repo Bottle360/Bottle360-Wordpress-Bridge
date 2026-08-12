@@ -54,6 +54,15 @@
             "date": "2026-08-12T07:28:39Z",
             "changelog": "Merge pull request #14 from Bottle360/bd4251-cart-minmax-messaging",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-rc.13",
+            "zip": "assets/bottle360bridge-4.5.1-rc.13.zip",
+            "sha256": "8938589a7293340f5513305be578e135b18c265a3762081246722822537b4c04",
+            "commit": "f30d50800",
+            "date": "2026-08-12T19:30:19Z",
+            "changelog": "Merge pull request #18 from Bottle360/fix/embed-demo-rig-dist-path",
+            "state_migration": false
         }
     ]
 }
