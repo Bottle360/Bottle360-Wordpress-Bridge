@@ -1,0 +1,1 @@
+function e(e){return!e.startsWith(`/`)||e.startsWith(`//`)?`/account`:e}function t(t,n=`/account`){let r=Array.isArray(t)?t[0]:t;return typeof r!=`string`||r.trim()===``?n:e(r.trim())}export{t};
