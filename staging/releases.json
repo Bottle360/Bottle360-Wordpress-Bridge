@@ -63,6 +63,15 @@
             "date": "2026-08-12T19:30:19Z",
             "changelog": "Merge pull request #18 from Bottle360/fix/embed-demo-rig-dist-path",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-rc.14",
+            "zip": "assets/bottle360bridge-4.5.1-rc.14.zip",
+            "sha256": "0516c7d58cb5bb1bd736dbab49dcabb5f799f1e5abaca3659a434e6d69813534",
+            "commit": "c7742deb4",
+            "date": "2026-08-13T07:21:20Z",
+            "changelog": "Merge pull request #20 from Bottle360/add-studio-asset-deploy-step",
+            "state_migration": false
         }
     ]
 }
