@@ -72,6 +72,15 @@
             "date": "2026-08-13T07:21:20Z",
             "changelog": "Merge pull request #20 from Bottle360/add-studio-asset-deploy-step",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-rc.17",
+            "zip": "assets/bottle360bridge-4.5.1-rc.17.zip",
+            "sha256": "e9aea0f27f18aea60435357249606799963d780da08ce4fcf88c39e3ba347881",
+            "commit": "7835e322b",
+            "date": "2026-08-13T16:07:29Z",
+            "changelog": "Merge pull request #24 from Bottle360/issue-22-loading-state-merge-staging",
+            "state_migration": false
         }
     ]
 }
