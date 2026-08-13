@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.1-dev.15",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.1-dev.15.zip",
+    "version": "4.5.1-dev.16",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.1-dev.16.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "c1e01cca79e2dd5446eb524da90787ee5bc42e035c7b0201c12f188def95a25f",
+    "sha256": "f7332c67e1292a94a78c7f27e5678888ac97902b113ab87d8f88215a60c53ad5",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.1-dev.15\nMerge pull request #21 from Bottle360/studio-asset-deploy-step-dev"
+        "changelog": "development 4.5.1-dev.16\nMerge pull request #23 from Bottle360/issue-22-account-tabs-loading-state"
     },
     "last_updated": "2026-08-13"
 }

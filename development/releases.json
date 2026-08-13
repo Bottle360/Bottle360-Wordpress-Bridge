@@ -63,6 +63,15 @@
             "date": "2026-08-13T07:21:52Z",
             "changelog": "Merge pull request #21 from Bottle360/studio-asset-deploy-step-dev",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-dev.16",
+            "zip": "assets/bottle360bridge-4.5.1-dev.16.zip",
+            "sha256": "f7332c67e1292a94a78c7f27e5678888ac97902b113ab87d8f88215a60c53ad5",
+            "commit": "ead90b30c",
+            "date": "2026-08-13T16:06:38Z",
+            "changelog": "Merge pull request #23 from Bottle360/issue-22-account-tabs-loading-state",
+            "state_migration": false
         }
     ]
 }
