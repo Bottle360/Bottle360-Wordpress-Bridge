@@ -1,14 +1,15 @@
 {
-  "name": "Bottle360 Bridge",
-  "slug": "bottle360bridge",
-  "version": "4.5.0",
-  "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.0.zip",
-  "requires": "5.2",
-  "requires_php": "7.4",
-  "tested": "6.7",
-  "sections": {
-    "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-    "changelog": "What's new in 4.5.0\n- Club members can now choose a requested ship date for their shipment.\n- Club customization shows both the regular price and the member price for each wine.\n- Wine club signup now collects the member's birthdate.\n- Notes on club shipments save automatically as you type.\n- Shipping discounts now apply as soon as you pick a delivery method, instead of waiting until the payment step.\n- Pickup orders show their handling fee clearly at checkout.\n- Lots of small improvements to the club customization screen: better sorting, clearer item names, and more reliable saving."
-  },
-  "last_updated": "2026-07-29"
+    "name": "Bottle360 Bridge",
+    "slug": "bottle360bridge",
+    "version": "4.5.1",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.1.zip",
+    "requires": "5.2",
+    "requires_php": "7.4",
+    "tested": "6.7",
+    "sections": {
+        "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
+        "changelog": "What's new in 4.5.1\n- Product changes made in your admin panel now show up on your site right away.\n- The clubs page no longer briefly says \"No club memberships\" while it loads.\n- Club address forms now point out exactly which fields need attention.\n- Customizing a club shipment is smoother: cards and addresses save on their own, and pickup orders no longer ask for a ship date.\n- Wine clubs a customer already belongs to are clearly labeled, with a matching join button.\n- Styling Studio: pick Google Fonts for each heading level, choose how many columns your store grid shows, and turn store filters on or off."
+    },
+    "last_updated": "2026-07-29",
+    "sha256": "0145ddeb9249813112b568d198df81ce707692f75cb96094d84eeb9b0d217df8"
 }
