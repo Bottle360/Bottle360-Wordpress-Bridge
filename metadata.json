@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.1",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.1.zip",
+    "version": "4.5.2",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.2.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.1\n- Product changes made in your admin panel now show up on your site right away.\n- The clubs page no longer briefly says \"No club memberships\" while it loads.\n- Club address forms now point out exactly which fields need attention.\n- Customizing a club shipment is smoother: cards and addresses save on their own, and pickup orders no longer ask for a ship date.\n- Wine clubs a customer already belongs to are clearly labeled, with a matching join button.\n- Styling Studio: pick Google Fonts for each heading level, choose how many columns your store grid shows, and turn store filters on or off."
+        "changelog": "Upstream guardrails + session-bleed cache hardening"
     },
     "last_updated": "2026-07-29",
-    "sha256": "0145ddeb9249813112b568d198df81ce707692f75cb96094d84eeb9b0d217df8"
+    "sha256": "395311c1ee487186f9c03cb7b1efac09a8620206726b0520837ef34e73b3c44a"
 }
