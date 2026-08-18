@@ -81,6 +81,15 @@
             "date": "2026-08-13T16:07:29Z",
             "changelog": "Merge pull request #24 from Bottle360/issue-22-loading-state-merge-staging",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-rc.19",
+            "zip": "assets/bottle360bridge-4.5.1-rc.19.zip",
+            "sha256": "2aeb86240a8991fe430f066e11be7b61a5dcd0977eabf0960c622be4117933f2",
+            "commit": "9e20d2064",
+            "date": "2026-08-18T14:33:08Z",
+            "changelog": "Merge pull request #31 from Bottle360/issue-27-merge-staging",
+            "state_migration": false
         }
     ]
 }
