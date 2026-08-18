@@ -72,6 +72,15 @@
             "date": "2026-08-13T16:06:38Z",
             "changelog": "Merge pull request #23 from Bottle360/issue-22-account-tabs-loading-state",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-dev.18",
+            "zip": "assets/bottle360bridge-4.5.1-dev.18.zip",
+            "sha256": "a287a70909c7891c39186c947a27bda9a5c6d2e99596c6ab20a84cd9e9fc06f3",
+            "commit": "b855baea4",
+            "date": "2026-08-18T14:32:10Z",
+            "changelog": "Merge pull request #30 from Bottle360/fix/issue-27-club-join",
+            "state_migration": false
         }
     ]
 }

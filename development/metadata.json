@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.1-dev.16",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.1-dev.16.zip",
+    "version": "4.5.1-dev.18",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.1-dev.18.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "f7332c67e1292a94a78c7f27e5678888ac97902b113ab87d8f88215a60c53ad5",
+    "sha256": "a287a70909c7891c39186c947a27bda9a5c6d2e99596c6ab20a84cd9e9fc06f3",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.1-dev.16\nMerge pull request #23 from Bottle360/issue-22-account-tabs-loading-state"
+        "changelog": "development 4.5.1-dev.18\nMerge pull request #30 from Bottle360/fix/issue-27-club-join"
     },
-    "last_updated": "2026-08-13"
+    "last_updated": "2026-08-18"
 }
