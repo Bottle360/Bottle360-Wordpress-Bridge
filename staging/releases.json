@@ -90,6 +90,15 @@
             "date": "2026-08-18T14:33:08Z",
             "changelog": "Merge pull request #31 from Bottle360/issue-27-merge-staging",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-rc.21",
+            "zip": "assets/bottle360bridge-4.5.1-rc.21.zip",
+            "sha256": "9d1d5ba40181c0479c3a4afffcb784023ae75bb9e521dd3adbfb5d63f1d2d71e",
+            "commit": "3a938361b",
+            "date": "2026-08-19T23:13:51Z",
+            "changelog": "Merge pull request #36 from Bottle360/bd4520-checkout-auth-gate-merge-staging",
+            "state_migration": false
         }
     ]
 }
