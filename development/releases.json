@@ -81,6 +81,15 @@
             "date": "2026-08-18T14:32:10Z",
             "changelog": "Merge pull request #30 from Bottle360/fix/issue-27-club-join",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-dev.20",
+            "zip": "assets/bottle360bridge-4.5.1-dev.20.zip",
+            "sha256": "bf90b275fae840f22f463107c9a7b7a04b293fb098a1050b371a6f21a15a297e",
+            "commit": "c2e7e5e8f",
+            "date": "2026-08-19T23:13:37Z",
+            "changelog": "Merge pull request #35 from Bottle360/bd4520-checkout-auth-gate",
+            "state_migration": false
         }
     ]
 }
