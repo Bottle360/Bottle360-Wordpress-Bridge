@@ -90,6 +90,15 @@
             "date": "2026-08-19T23:13:37Z",
             "changelog": "Merge pull request #35 from Bottle360/bd4520-checkout-auth-gate",
             "state_migration": false
+        },
+        {
+            "version": "4.5.1-dev.22",
+            "zip": "assets/bottle360bridge-4.5.1-dev.22.zip",
+            "sha256": "2f6b3369e395703238c17399e956a1b5e748b651952fc48016c0ba7d31281444",
+            "commit": "fc277f04d",
+            "date": "2026-08-21T23:53:14Z",
+            "changelog": "Merge pull request #37 from Bottle360/bd4524-embed-vault-gate-dev",
+            "state_migration": false
         }
     ]
 }

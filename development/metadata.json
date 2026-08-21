@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.1-dev.20",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.1-dev.20.zip",
+    "version": "4.5.1-dev.22",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.1-dev.22.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "bf90b275fae840f22f463107c9a7b7a04b293fb098a1050b371a6f21a15a297e",
+    "sha256": "2f6b3369e395703238c17399e956a1b5e748b651952fc48016c0ba7d31281444",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.1-dev.20\nMerge pull request #35 from Bottle360/bd4520-checkout-auth-gate"
+        "changelog": "development 4.5.1-dev.22\nMerge pull request #37 from Bottle360/bd4524-embed-vault-gate-dev"
     },
-    "last_updated": "2026-08-19"
+    "last_updated": "2026-08-21"
 }
