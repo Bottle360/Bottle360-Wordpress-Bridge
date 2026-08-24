@@ -11,5 +11,5 @@
         "changelog": "<h4>4.5.4</h4><p><strong>Hotfix: signed-in members were returned to the Sign In page about five minutes after logging in.</strong> This affects sites running 4.5.3 and is resolved by updating.</p><ul><li>The storefront no longer treats a lapsed sign-in cookie as proof that the member is signed out. It re-checks with the server before changing anything.</li><li>On page load, a returning member is reconciled against the profile endpoint, so a valid session survives the cookie lapse. First-time anonymous visitors still make no extra requests.</li><li>On checkout and account pages, a change in sign-in state is re-verified before any redirect, which removes the bounce partway through checkout.</li><li>A genuinely expired or signed-out session still lands on Sign In, with no repeat sign-in loop.</li></ul><p>No customer data, cart contents or orders were affected. Sessions stayed valid throughout; only the interface treated members as signed out.</p>"
     },
     "last_updated": "2026-07-29",
-    "sha256": "0fc2dd0d58c6a439e4999b7c2285781d1e8e55be94e5de252684ed1590c0e0fb"
+    "sha256": "0f474beeab900499ae908d8a7c1445e10393ae908fbf8a6581c66011b5db99d8"
 }
