@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.2",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.2.zip",
+    "version": "4.5.3",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.3.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "Upstream guardrails + session-bleed cache hardening"
+        "changelog": "Club signup: members without a saved address can complete web signup (contact capture + proxy forwarding); single-flight GET dedupe and reduced page-load fan-out"
     },
     "last_updated": "2026-07-29",
-    "sha256": "395311c1ee487186f9c03cb7b1efac09a8620206726b0520837ef34e73b3c44a"
+    "sha256": "ce3a00d20bdc8476eaf84fe2f08bff07c52c2486ec4e1a8575808d13fba11614"
 }
