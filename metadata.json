@@ -11,5 +11,5 @@
         "changelog": "Club signup: members without a saved address can complete web signup (contact capture + proxy forwarding); single-flight GET dedupe and reduced page-load fan-out"
     },
     "last_updated": "2026-07-29",
-    "sha256": "ce3a00d20bdc8476eaf84fe2f08bff07c52c2486ec4e1a8575808d13fba11614"
+    "sha256": "832c23cecfe5db707f5e687ab00eb78e1905e9b4d2e1921e358291fba7eebac3"
 }
