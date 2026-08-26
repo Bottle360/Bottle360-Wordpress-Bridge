@@ -108,6 +108,15 @@
             "date": "2026-08-21T23:53:53Z",
             "changelog": "Merge pull request #38 from Bottle360/bd4524-embed-vault-gate-staging",
             "state_migration": false
+        },
+        {
+            "version": "4.5.9-rc.25",
+            "zip": "assets/bottle360bridge-4.5.9-rc.25.zip",
+            "sha256": "094f078ca9129c436775c61d517528e2e820dfa04e7a1d604ba4d319c5a2e846",
+            "commit": "5eb1c1b39",
+            "date": "2026-08-26T05:53:02Z",
+            "changelog": "Merge pull request #53 from Bottle360/main-to-staging",
+            "state_migration": false
         }
     ]
 }
