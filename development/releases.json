@@ -99,6 +99,15 @@
             "date": "2026-08-21T23:53:14Z",
             "changelog": "Merge pull request #37 from Bottle360/bd4524-embed-vault-gate-dev",
             "state_migration": false
+        },
+        {
+            "version": "4.5.9-dev.24",
+            "zip": "assets/bottle360bridge-4.5.9-dev.24.zip",
+            "sha256": "ecdc6d12f7fe69516d4961c9f2ecded1b977a7b87e66a4fb549905dcc5db5741",
+            "commit": "35c6d33e1",
+            "date": "2026-08-26T05:52:34Z",
+            "changelog": "Merge pull request #54 from Bottle360/main-to-development",
+            "state_migration": false
         }
     ]
 }
