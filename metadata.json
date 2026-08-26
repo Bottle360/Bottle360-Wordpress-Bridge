@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.6",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.6.zip",
+    "version": "4.5.8",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.8.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "<h4>4.5.6</h4><p><strong>Guests can now complete a purchase without being stopped, and members are no longer shown a blank customize panel.</strong> Sites running 4.5.4 also pick up the 4.5.5 fix, which was never published separately.</p><ul><li><strong>Guest checkout.</strong> A guest can check out normally. Signing in is only requested at the point a card is actually saved to the account, and it now opens the usual sign-in dialog instead of ending in an error message. The card details are re-read after signing in, so nothing has to be typed twice.</li><li><strong>Club signup for guests</strong> follows the same path rather than dead-ending.</li><li><strong>Customize panel.</strong> After a session lapsed, opening a shipment's customize view could leave the panel blank with no spinner and no error. The loaded shipment now survives a brief authentication blip and only resets when a genuinely different member signs in.</li></ul><p>No customer data, cart contents or orders are affected by this update.</p>"
+        "changelog": "<h4>4.5.8</h4><p><strong>Mobile improvements across club customization and My Account, plus club workflow and embed fixes.</strong> Sites running 4.5.6 also pick up 4.5.7, which was never published separately.</p><ul><li><strong>Adding wines on a phone.</strong> The shipment customize screen now opens a full-screen browse sheet with search and the same club pricing, instead of a cramped type-ahead box. Desktop is unchanged.</li><li><strong>Customize on small screens.</strong> Item rows stack rather than squeeze, and the sticky action button can be offset per site so it no longer collides with a theme's own fixed header or bar.</li><li><strong>My Account on mobile.</strong> Clearer profile layout, a denser tab strip, and an indicator dot marking an upcoming shipment that needs attention.</li><li><strong>Club workflow.</strong> Members are prompted to re-authenticate in place rather than being dropped, saved customizations now confirm with a toast, and shipment manifest and styling controls were added.</li><li><strong>Embed.</strong> Studio sessions recover instead of dead-ending, the shopper's own address is forwarded correctly for fraud checks, and a double page-load on single-page sites was fixed.</li></ul><p>No customer data, cart contents or orders are affected by this update.</p>"
     },
     "last_updated": "2026-07-29",
-    "sha256": "ced8d0150fd18b3ce591358d9b8045ccc285ca9b9945607ab0655dcd55c6df24"
+    "sha256": "4867ab25bac3f77c6a7577196caa1bb4b7c8beb279702fcdb94bb05bcf0fac8c"
 }
