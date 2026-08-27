@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.8",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.8.zip",
+    "version": "4.5.9",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.9.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "<h4>4.5.8</h4><p><strong>Mobile improvements across club customization and My Account, plus club workflow and embed fixes.</strong> Sites running 4.5.6 also pick up 4.5.7, which was never published separately.</p><ul><li><strong>Adding wines on a phone.</strong> The shipment customize screen now opens a full-screen browse sheet with search and the same club pricing, instead of a cramped type-ahead box. Desktop is unchanged.</li><li><strong>Customize on small screens.</strong> Item rows stack rather than squeeze, and the sticky action button can be offset per site so it no longer collides with a theme's own fixed header or bar.</li><li><strong>My Account on mobile.</strong> Clearer profile layout, a denser tab strip, and an indicator dot marking an upcoming shipment that needs attention.</li><li><strong>Club workflow.</strong> Members are prompted to re-authenticate in place rather than being dropped, saved customizations now confirm with a toast, and shipment manifest and styling controls were added.</li><li><strong>Embed.</strong> Studio sessions recover instead of dead-ending, the shopper's own address is forwarded correctly for fraud checks, and a double page-load on single-page sites was fixed.</li></ul><p>No customer data, cart contents or orders are affected by this update.</p>"
+        "changelog": "<h4>4.5.9</h4>\n<p><strong>Fixes the repeated sign-in prompt some members hit when saving a card, plus checkout polish.</strong></p>\n<ul>\n<li><strong>Members are no longer asked to sign in over and over.</strong> Customers whose accounts were created outside the online store (for example by winery staff) were being signed out every time they tried to save a card, check out, or join a club. They now stay signed in, can check out with a new card, and see a short \"Verify your account to save cards\" note with a Reset password button that fixes the account for good.</li>\n<li><strong>Checkout no longer gets stuck on an empty address step.</strong> If a previous attempt left the checkout with an address it could not show, the step now offers \"Add shipping address\" instead of an empty box and a confusing \"Email is required\" message.</li>\n<li><strong>Clearer messages at the final step.</strong> When an order needs the shopper to check their email or sign in first, that message now appears at the top of the page in plain language instead of a red error.</li>\n<li><strong>Your typed address is kept when you sign in mid-checkout.</strong> A shopper who signs in from the \"this email already has an account\" message keeps the delivery address they entered, rather than the order silently switching to a saved address.</li>\n<li><strong>Updating the card on a club membership now works on WordPress sites.</strong> Entering a new card under My Account \u2192 Clubs \u2192 Edit saved nothing before; it now saves and is used for the next shipment.</li>\n</ul>"
     },
     "last_updated": "2026-07-29",
-    "sha256": "4867ab25bac3f77c6a7577196caa1bb4b7c8beb279702fcdb94bb05bcf0fac8c"
+    "sha256": "f9388bf301c9aad5605d1a978c2d13f7f8aa71d0636de2bf344af76fcb6be6ab"
 }
