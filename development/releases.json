@@ -117,6 +117,15 @@
             "date": "2026-08-26T21:39:23Z",
             "changelog": "Trickle-down: catch development up to main (4.5.9) (#57)",
             "state_migration": false
+        },
+        {
+            "version": "4.5.10-dev.28",
+            "zip": "assets/bottle360bridge-4.5.10-dev.28.zip",
+            "sha256": "9bc1ce31247749870db78f4e5ca7cfbc01d9a1de3229cbe6b77dde828fb7468d",
+            "commit": "fc5ffff5f",
+            "date": "2026-09-01T18:57:11Z",
+            "changelog": "Merge pull request #85 from Bottle360/bd4603-development",
+            "state_migration": false
         }
     ]
 }
