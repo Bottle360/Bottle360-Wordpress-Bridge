@@ -126,6 +126,15 @@
             "date": "2026-08-26T21:38:37Z",
             "changelog": "Trickle-down: catch staging up to main (4.5.9) (#56)",
             "state_migration": false
+        },
+        {
+            "version": "4.5.10-rc.29",
+            "zip": "assets/bottle360bridge-4.5.10-rc.29.zip",
+            "sha256": "49ca1aa7d75600251c54cc1b7c9a4bf252d8aae96bf23b9961b9500b6cb230d0",
+            "commit": "5ddb1b2d2",
+            "date": "2026-09-01T18:57:47Z",
+            "changelog": "Merge pull request #86 from Bottle360/bd4603-staging",
+            "state_migration": false
         }
     ]
 }
