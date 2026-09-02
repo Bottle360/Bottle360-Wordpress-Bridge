@@ -135,6 +135,15 @@
             "date": "2026-09-01T18:57:47Z",
             "changelog": "Merge pull request #86 from Bottle360/bd4603-staging",
             "state_migration": false
+        },
+        {
+            "version": "4.5.10-rc.31",
+            "zip": "assets/bottle360bridge-4.5.10-rc.31.zip",
+            "sha256": "ea9199fbc927caa69dd81ff69c9bb945043a428774e53620ef63dc696807ed42",
+            "commit": "81fdf026b",
+            "date": "2026-09-02T16:52:22Z",
+            "changelog": "Merge pull request #91 from Bottle360/bd-savegate-staging",
+            "state_migration": false
         }
     ]
 }
