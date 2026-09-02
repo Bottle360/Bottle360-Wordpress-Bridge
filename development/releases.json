@@ -126,6 +126,15 @@
             "date": "2026-09-01T18:57:11Z",
             "changelog": "Merge pull request #85 from Bottle360/bd4603-development",
             "state_migration": false
+        },
+        {
+            "version": "4.5.10-dev.30",
+            "zip": "assets/bottle360bridge-4.5.10-dev.30.zip",
+            "sha256": "dbe8ca41cbfc8cb7c9ee25f44051b2f4f7b09cc6814ae7b1cffce0de065d1706",
+            "commit": "66bad5b4c",
+            "date": "2026-09-02T16:52:04Z",
+            "changelog": "Merge pull request #90 from Bottle360/bd-savegate-development",
+            "state_migration": false
         }
     ]
 }
