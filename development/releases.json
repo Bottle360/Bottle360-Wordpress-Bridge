@@ -144,6 +144,15 @@
             "date": "2026-09-04T17:44:31Z",
             "changelog": "Merge pull request #100 from Bottle360/bd4626-development",
             "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.34",
+            "zip": "assets/bottle360bridge-4.5.11-dev.34.zip",
+            "sha256": "3fe1ff7ec03a9b81c00b025aa68609e0cb982abce54343e9f25692c585903a8c",
+            "commit": "6da1500cd",
+            "date": "2026-09-04T19:08:38Z",
+            "changelog": "Merge pull request #103 from Bottle360/cana-dan-studio-default-sort-development",
+            "state_migration": false
         }
     ]
 }
