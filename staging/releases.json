@@ -153,6 +153,15 @@
             "date": "2026-09-04T17:44:50Z",
             "changelog": "Merge pull request #101 from Bottle360/bd4626-staging",
             "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.35",
+            "zip": "assets/bottle360bridge-4.5.11-rc.35.zip",
+            "sha256": "7432f2fa01077817ac5e0d630dda2d2c967c2b00c566dbf85ffe136ff2c38b9e",
+            "commit": "e5084f89d",
+            "date": "2026-09-08T19:19:45Z",
+            "changelog": "Merge pull request #109 from Bottle360/hotfix-search-clear-staging",
+            "state_migration": false
         }
     ]
 }
