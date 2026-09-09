@@ -162,6 +162,15 @@
             "date": "2026-09-08T19:19:45Z",
             "changelog": "Merge pull request #109 from Bottle360/hotfix-search-clear-staging",
             "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.38",
+            "zip": "assets/bottle360bridge-4.5.11-rc.38.zip",
+            "sha256": "3a51915d66e1a93cbcbf5566e0702a36168631ebca4d7823468e847f1ae34705",
+            "commit": "c4f47d3c6",
+            "date": "2026-09-09T16:57:59Z",
+            "changelog": "Merge pull request #104 from Bottle360/cana-dan-studio-default-sort-staging",
+            "state_migration": false
         }
     ]
 }
