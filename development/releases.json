@@ -162,6 +162,15 @@
             "date": "2026-09-09T16:43:57Z",
             "changelog": "Merge pull request #115 from Bottle360/fix-studio-theme-import-development",
             "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.37",
+            "zip": "assets/bottle360bridge-4.5.11-dev.37.zip",
+            "sha256": "09e32182524fa5224861ddc9a95e5660718a26654eabf35cb1e54c79e932bdf9",
+            "commit": "d8d24e549",
+            "date": "2026-09-09T16:47:53Z",
+            "changelog": "Merge pull request #95 from Bottle360/hotfix-search-clear-development",
+            "state_migration": false
         }
     ]
 }
