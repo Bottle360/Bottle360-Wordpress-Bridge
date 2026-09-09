@@ -153,6 +153,15 @@
             "date": "2026-09-04T19:08:38Z",
             "changelog": "Merge pull request #103 from Bottle360/cana-dan-studio-default-sort-development",
             "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.36",
+            "zip": "assets/bottle360bridge-4.5.11-dev.36.zip",
+            "sha256": "176dd6f5e6c206074e68da3a1cbb26e0332a1afc81e10ea875efb349c67e1bf2",
+            "commit": "e15731a39",
+            "date": "2026-09-09T16:43:57Z",
+            "changelog": "Merge pull request #115 from Bottle360/fix-studio-theme-import-development",
+            "state_migration": false
         }
     ]
 }
