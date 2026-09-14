@@ -18,7 +18,8 @@
             "commit": "23ef23a49",
             "date": "2026-08-05T23:48:56Z",
             "changelog": "Merge pull request #10 from Bottle360/development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-rc.6",
@@ -189,6 +190,15 @@
             "commit": "ad92c60e0",
             "date": "2026-09-14T17:48:35Z",
             "changelog": "Merge pull request #129 from Bottle360/em-dash-sweep-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.44",
+            "zip": "assets/bottle360bridge-4.5.11-rc.44.zip",
+            "sha256": "96e8aa088714441f66fcedfb09f9d138292c241bfb7ddc46a2cbd0a6518d5563",
+            "commit": "36e0c02fc",
+            "date": "2026-09-14T18:27:33Z",
+            "changelog": "Merge pull request #137 from Bottle360/sweep-copy-fixes-staging",
             "state_migration": false
         }
     ]
