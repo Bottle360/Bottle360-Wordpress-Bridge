@@ -171,6 +171,15 @@
             "date": "2026-09-09T16:47:53Z",
             "changelog": "Merge pull request #95 from Bottle360/hotfix-search-clear-development",
             "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.40",
+            "zip": "assets/bottle360bridge-4.5.11-dev.40.zip",
+            "sha256": "f74587dada3e60f9cb955de2064023d08c914538c37fc1e50b9f096b2eae20dc",
+            "commit": "66605bd84",
+            "date": "2026-09-14T17:46:30Z",
+            "changelog": "Merge pull request #127 from Bottle360/em-dash-sweep-development",
+            "state_migration": false
         }
     ]
 }
