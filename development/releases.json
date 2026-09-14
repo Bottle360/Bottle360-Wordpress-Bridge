@@ -8,7 +8,8 @@
             "commit": "9e256c1e5",
             "date": "2026-08-03T00:12:35Z",
             "changelog": "Merge pull request #6 from Bottle360/cicd-channels",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-dev.3",
@@ -179,6 +180,15 @@
             "commit": "66605bd84",
             "date": "2026-09-14T17:46:30Z",
             "changelog": "Merge pull request #127 from Bottle360/em-dash-sweep-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.42",
+            "zip": "assets/bottle360bridge-4.5.11-dev.42.zip",
+            "sha256": "151777fe0a9ecbe66292f29d84450777491cccd1893cb609d1e1f9bad810e8f9",
+            "commit": "c63d55b23",
+            "date": "2026-09-14T18:11:48Z",
+            "changelog": "Merge pull request #126 from Bottle360/styling-studio-development",
             "state_migration": false
         }
     ]
