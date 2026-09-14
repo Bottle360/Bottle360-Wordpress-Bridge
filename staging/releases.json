@@ -171,6 +171,15 @@
             "date": "2026-09-09T16:57:59Z",
             "changelog": "Merge pull request #104 from Bottle360/cana-dan-studio-default-sort-staging",
             "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.39",
+            "zip": "assets/bottle360bridge-4.5.11-rc.39.zip",
+            "sha256": "a07424de61f69f051d012ff5ed298fbe5dbb185a079ed167dc58347b7ba9db35",
+            "commit": "4b6c112e4",
+            "date": "2026-09-14T17:44:30Z",
+            "changelog": "Merge pull request #128 from Bottle360/styling-studio-staging",
+            "state_migration": false
         }
     ]
 }
