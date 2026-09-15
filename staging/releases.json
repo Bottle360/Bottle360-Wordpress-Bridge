@@ -28,7 +28,8 @@
             "commit": "1bded47e3",
             "date": "2026-08-07T22:43:41Z",
             "changelog": "Merge pull request #8 from Bottle360/squarespace-embed-publish",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-rc.7",
@@ -199,6 +200,15 @@
             "commit": "36e0c02fc",
             "date": "2026-09-14T18:27:33Z",
             "changelog": "Merge pull request #137 from Bottle360/sweep-copy-fixes-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.46",
+            "zip": "assets/bottle360bridge-4.5.11-rc.46.zip",
+            "sha256": "f6778879f1236c2d92f58840f9c1de14c84935dc28ebf153b570ef5b3eea323b",
+            "commit": "fb381a1c0",
+            "date": "2026-09-15T01:14:35Z",
+            "changelog": "Merge pull request #133 from Bottle360/feature/express-pay-google-staging",
             "state_migration": false
         }
     ]
