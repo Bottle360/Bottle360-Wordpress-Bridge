@@ -38,7 +38,8 @@
             "commit": "7b3d81ed4",
             "date": "2026-08-11T11:24:30Z",
             "changelog": "Merge pull request #13 from Bottle360/bd4251-wordpress-plugin-fixes",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-rc.11",
@@ -209,6 +210,15 @@
             "commit": "fb381a1c0",
             "date": "2026-09-15T01:14:35Z",
             "changelog": "Merge pull request #133 from Bottle360/feature/express-pay-google-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.48",
+            "zip": "assets/bottle360bridge-4.5.11-rc.48.zip",
+            "sha256": "61662cc8f76c6fdd5a5ad808aefe5d0f4f0091962f20394525b183610625ba65",
+            "commit": "16c7f5be2",
+            "date": "2026-09-15T21:22:43Z",
+            "changelog": "Merge pull request #139 from Bottle360/feature/express-pay-hardening-staging",
             "state_migration": false
         }
     ]
