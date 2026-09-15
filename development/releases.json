@@ -28,7 +28,8 @@
             "commit": "06db86e85",
             "date": "2026-08-05T22:52:08Z",
             "changelog": "Merge pull request #9 from Bottle360/BD-4408-dev",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-dev.8",
@@ -199,6 +200,15 @@
             "commit": "45a850716",
             "date": "2026-09-14T18:27:25Z",
             "changelog": "Merge pull request #136 from Bottle360/sweep-copy-fixes-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.45",
+            "zip": "assets/bottle360bridge-4.5.11-dev.45.zip",
+            "sha256": "0232ecd5106fdb50c90ca03548c845ca1605473223427523adc6a04974aaf331",
+            "commit": "459234d93",
+            "date": "2026-09-15T01:14:14Z",
+            "changelog": "Merge pull request #132 from Bottle360/feature/express-pay-google",
             "state_migration": false
         }
     ]
