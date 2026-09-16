@@ -1,5 +1,177 @@
-<!doctype html><meta charset="utf-8">
-<title>Bottle360 Bridge Releases</title>
-<h1>Bottle360 Bridge Releases</h1>
-<p><a href="./metadata.json">metadata.json</a></p>
-<p><a href="./assets/bottle360bridge-1.6.65.zip">bottle360bridge-1.6.65.zip</a></p>
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bottle360 Bridge Distribution</title>
+<style>
+  :root {
+    --bg: #fbfaf8;
+    --panel: #ffffff;
+    --ink: #1c1a17;
+    --muted: #6b665e;
+    --line: #e3ded6;
+    --accent: #7a1730;
+    --ok: #2f6f4e;
+    --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #171614; --panel: #201e1b; --ink: #ece8e1; --muted: #9a938a;
+      --line: #322e29; --accent: #d98a9f; --ok: #7bbd98;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #171614; --panel: #201e1b; --ink: #ece8e1; --muted: #9a938a;
+    --line: #322e29; --accent: #d98a9f; --ok: #7bbd98;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
+    padding-block: 40px; padding-left: 20px; padding-right: 20px;
+  }
+  main { max-width: 900px; margin: 0 auto; display: flex; flex-direction: column; gap: 32px; }
+  h1 { font-size: 22px; margin: 0; letter-spacing: -0.01em; }
+  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: 0.08em;
+       color: var(--muted); margin: 0 0 10px; font-weight: 600; }
+  .lede { color: var(--muted); margin: 6px 0 0; max-width: 62ch; }
+  section { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 18px 20px; }
+  .wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; }
+  th, td { text-align: left; padding: 9px 12px 9px 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { font-weight: 600; font-size: 12px; text-transform: uppercase;
+       letter-spacing: 0.05em; color: var(--muted); }
+  tr:last-child td { border-bottom: 0; }
+  td.v, td.d { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  a { color: var(--accent); }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+  code { font-family: var(--mono); font-size: 13px; }
+  .url { display: block; font-family: var(--mono); font-size: 13px; word-break: break-all;
+         background: var(--bg); border: 1px solid var(--line); border-radius: 4px; padding: 10px 12px; }
+  .tag { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;
+         border: 1px solid var(--line); border-radius: 999px; padding: 2px 8px; color: var(--muted); }
+  .tag.prod { color: var(--ok); border-color: currentColor; }
+  .note { color: var(--muted); font-size: 13px; margin: 12px 0 0; }
+  .fail { color: var(--muted); font-style: italic; }
+</style>
+
+<main>
+  <header>
+    <h1>Bottle360 Bridge Distribution</h1>
+    <p class="lede">
+      Update channels for the WordPress plugin and the hosted Squarespace embed
+      bundle. Read live from each channel's <code>metadata.json</code>, so this
+      page cannot fall out of step with what is actually published.
+    </p>
+  </header>
+
+  <section>
+    <h2>WordPress plugin</h2>
+    <div class="wrap">
+      <table>
+        <thead><tr><th>Channel</th><th>Version</th><th>Updated</th><th>Download</th></tr></thead>
+        <tbody id="plugin"><tr><td colspan="4" class="fail">Loading…</td></tr></tbody>
+      </table>
+    </div>
+    <p class="note">Sites follow the root channel by default. A site opts into
+    a pre-release channel with <code>B360_UPDATE_CHANNEL</code>.</p>
+  </section>
+
+  <section>
+    <h2>Squarespace embed bundle</h2>
+    <div class="wrap">
+      <table>
+        <thead><tr><th>Channel</th><th>Version</th><th>Built</th><th>Commit</th><th>Chunks</th></tr></thead>
+        <tbody id="embed"><tr><td colspan="5" class="fail">Loading…</td></tr></tbody>
+      </table>
+    </div>
+    <p class="note">The loader filename is evergreen and the chunks it imports are
+    content-hashed, so a rebuild reaches every winery without anyone re-pasting a
+    snippet. This is the URL a winery pastes into Squarespace:</p>
+    <p class="url">https://bottle360.github.io/Bottle360-Wordpress-Bridge/embed/b360-embed.js</p>
+  </section>
+</main>
+
+<script>
+  const PLUGIN = [
+    { name: 'production', path: '.', tag: true },
+    { name: 'staging', path: './staging' },
+    { name: 'development', path: './development' },
+  ]
+  const EMBED = [
+    { name: 'production', path: './embed', tag: true },
+    { name: 'staging', path: './embed-staging' },
+    { name: 'development', path: './embed-development' },
+  ]
+
+  const text = (s) => document.createTextNode(s == null ? 'unknown' : String(s))
+
+  function label(ch) {
+    const td = document.createElement('td')
+    td.append(text(ch.name))
+    if (ch.tag) {
+      const t = document.createElement('span')
+      t.className = 'tag prod'
+      t.append(text('live'))
+      td.append(' ', t)
+    }
+    return td
+  }
+
+  function row(cells) {
+    const tr = document.createElement('tr')
+    for (const c of cells) tr.append(c)
+    return tr
+  }
+
+  function cell(value, cls) {
+    const td = document.createElement('td')
+    if (cls) td.className = cls
+    td.append(text(value))
+    return td
+  }
+
+  function link(href, label) {
+    const td = document.createElement('td')
+    const a = document.createElement('a')
+    a.href = href
+    a.append(text(label))
+    td.append(a)
+    return td
+  }
+
+  async function load(channels, tbody, render, columns) {
+    const results = await Promise.all(channels.map(async (ch) => {
+      try {
+        const res = await fetch(ch.path + '/metadata.json', { cache: 'no-store' })
+        if (!res.ok) return null
+        return await res.json()
+      } catch { return null }
+    }))
+    tbody.replaceChildren()
+    results.forEach((data, i) => {
+      const ch = channels[i]
+      if (!data) {
+        const td = document.createElement('td')
+        td.colSpan = columns - 1
+        td.className = 'fail'
+        td.append(text('not published'))
+        tbody.append(row([label(ch), td]))
+        return
+      }
+      tbody.append(row([label(ch), ...render(data, ch)]))
+    })
+  }
+
+  load(PLUGIN, document.getElementById('plugin'), (d, ch) => [
+    cell(d.version, 'v'),
+    cell(d.last_updated, 'd'),
+    link(d.download_url || (ch.path + '/assets/'), 'zip'),
+  ], 4)
+
+  load(EMBED, document.getElementById('embed'), (d) => [
+    cell(d.version, 'v'),
+    cell((d.built || '').replace('T', ' ').replace('Z', ''), 'd'),
+    cell(d.commit, 'v'),
+    cell(d.chunk_files, 'v'),
+  ], 5)
+</script>
