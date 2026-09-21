@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.11-rc.50",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.11-rc.50.zip",
+    "version": "4.5.11-rc.53",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.11-rc.53.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "05336faaf2f494e18c8f20d7656561b5a57dbb58557af7735884d467d2ef838c",
+    "sha256": "0f9f54c369431655482c9de68994779c0d516a19483cdbb134551e92a009a107",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (staging channel)",
-        "changelog": "staging 4.5.11-rc.50\nMerge pull request #148 from Bottle360/BD-4726-redemption-panel-settings-gate-staging"
+        "changelog": "staging 4.5.11-rc.53\nMerge pull request #143 from Bottle360/BD-4633-native-oos-label-staging"
     },
     "last_updated": "2026-09-21"
 }

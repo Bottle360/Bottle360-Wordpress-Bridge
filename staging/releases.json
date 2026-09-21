@@ -58,7 +58,8 @@
             "commit": "32230b8b5",
             "date": "2026-08-12T07:28:39Z",
             "changelog": "Merge pull request #14 from Bottle360/bd4251-cart-minmax-messaging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-rc.13",
@@ -229,6 +230,15 @@
             "commit": "d72179903",
             "date": "2026-09-21T15:15:06Z",
             "changelog": "Merge pull request #148 from Bottle360/BD-4726-redemption-panel-settings-gate-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.53",
+            "zip": "assets/bottle360bridge-4.5.11-rc.53.zip",
+            "sha256": "0f9f54c369431655482c9de68994779c0d516a19483cdbb134551e92a009a107",
+            "commit": "8dc5d7f8f",
+            "date": "2026-09-21T15:51:13Z",
+            "changelog": "Merge pull request #143 from Bottle360/BD-4633-native-oos-label-staging",
             "state_migration": false
         }
     ]
