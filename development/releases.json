@@ -78,7 +78,8 @@
             "commit": "ead90b30c",
             "date": "2026-08-13T16:06:38Z",
             "changelog": "Merge pull request #23 from Bottle360/issue-22-account-tabs-loading-state",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-dev.18",
@@ -249,6 +250,15 @@
             "commit": "dff036d5e",
             "date": "2026-09-21T15:45:36Z",
             "changelog": "Merge pull request #141 from Bottle360/BD-4633-native-oos-label",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.54",
+            "zip": "assets/bottle360bridge-4.5.11-dev.54.zip",
+            "sha256": "dd21e8dbf1c1e02abef292c913672fa6a688249bc45dd524b92e7ebd4c5701d1",
+            "commit": "b881ac53c",
+            "date": "2026-09-21T15:51:40Z",
+            "changelog": "Merge pull request #142 from Bottle360/BD-4727-pickup-shipping-charge",
             "state_migration": false
         }
     ]
