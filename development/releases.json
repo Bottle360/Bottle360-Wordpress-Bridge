@@ -68,7 +68,8 @@
             "commit": "7c673fb57",
             "date": "2026-08-13T07:21:52Z",
             "changelog": "Merge pull request #21 from Bottle360/studio-asset-deploy-step-dev",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-dev.16",
@@ -239,6 +240,15 @@
             "commit": "260c99311",
             "date": "2026-09-21T15:40:17Z",
             "changelog": "Merge pull request #140 from Bottle360/release-notes-4.5.11",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.52",
+            "zip": "assets/bottle360bridge-4.5.11-dev.52.zip",
+            "sha256": "d010ad88d23ed460fdd8bb96c538377085638c10bca74d60b50a5343989ddaf5",
+            "commit": "dff036d5e",
+            "date": "2026-09-21T15:45:36Z",
+            "changelog": "Merge pull request #141 from Bottle360/BD-4633-native-oos-label",
             "state_migration": false
         }
     ]
