@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.11-rc.48",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.11-rc.48.zip",
+    "version": "4.5.11-rc.50",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.11-rc.50.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "61662cc8f76c6fdd5a5ad808aefe5d0f4f0091962f20394525b183610625ba65",
+    "sha256": "05336faaf2f494e18c8f20d7656561b5a57dbb58557af7735884d467d2ef838c",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (staging channel)",
-        "changelog": "staging 4.5.11-rc.48\nMerge pull request #139 from Bottle360/feature/express-pay-hardening-staging"
+        "changelog": "staging 4.5.11-rc.50\nMerge pull request #148 from Bottle360/BD-4726-redemption-panel-settings-gate-staging"
     },
-    "last_updated": "2026-09-15"
+    "last_updated": "2026-09-21"
 }

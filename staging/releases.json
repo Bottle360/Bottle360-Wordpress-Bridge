@@ -48,7 +48,8 @@
             "commit": "46657a131",
             "date": "2026-08-11T20:25:54Z",
             "changelog": "Merge pull request #16 from Bottle360/BD-4388-merge-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-rc.12",
@@ -219,6 +220,15 @@
             "commit": "16c7f5be2",
             "date": "2026-09-15T21:22:43Z",
             "changelog": "Merge pull request #139 from Bottle360/feature/express-pay-hardening-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.50",
+            "zip": "assets/bottle360bridge-4.5.11-rc.50.zip",
+            "sha256": "05336faaf2f494e18c8f20d7656561b5a57dbb58557af7735884d467d2ef838c",
+            "commit": "d72179903",
+            "date": "2026-09-21T15:15:06Z",
+            "changelog": "Merge pull request #148 from Bottle360/BD-4726-redemption-panel-settings-gate-staging",
             "state_migration": false
         }
     ]
