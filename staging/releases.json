@@ -88,7 +88,8 @@
             "commit": "7835e322b",
             "date": "2026-08-13T16:07:29Z",
             "changelog": "Merge pull request #24 from Bottle360/issue-22-loading-state-merge-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-rc.19",
@@ -259,6 +260,15 @@
             "commit": "ab8d28bed",
             "date": "2026-09-22T08:37:08Z",
             "changelog": "Merge pull request #156 from Bottle360/BD-4761-recaptcha-consent-readiness-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.59",
+            "zip": "assets/bottle360bridge-4.5.11-rc.59.zip",
+            "sha256": "4b470dfcee197c09d2cbf1ee6e63c04f9f48677c609e0b3b2419ba1c4a85232d",
+            "commit": "16ae3e824",
+            "date": "2026-09-22T18:04:37Z",
+            "changelog": "Merge pull request #164 from Bottle360/BD-4723-minmax-input-and-route-class-staging",
             "state_migration": false
         }
     ]
