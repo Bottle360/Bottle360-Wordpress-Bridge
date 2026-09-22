@@ -98,7 +98,8 @@
             "commit": "c2e7e5e8f",
             "date": "2026-08-19T23:13:37Z",
             "changelog": "Merge pull request #35 from Bottle360/bd4520-checkout-auth-gate",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-dev.22",
@@ -269,6 +270,15 @@
             "commit": "4514d1e92",
             "date": "2026-09-22T08:37:21Z",
             "changelog": "Merge pull request #155 from Bottle360/BD-4761-recaptcha-consent-readiness-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.58",
+            "zip": "assets/bottle360bridge-4.5.11-dev.58.zip",
+            "sha256": "57c6c9b8f37bf7d9b0ea4c71c38533b86dfd36dc211f4c00b65b4dd4175cb06f",
+            "commit": "8254ca899",
+            "date": "2026-09-22T17:55:28Z",
+            "changelog": "Merge pull request #163 from Bottle360/BD-4723-minmax-input-and-route-class-development",
             "state_migration": false
         }
     ]
