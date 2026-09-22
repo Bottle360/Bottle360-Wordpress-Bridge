@@ -88,7 +88,8 @@
             "commit": "b855baea4",
             "date": "2026-08-18T14:32:10Z",
             "changelog": "Merge pull request #30 from Bottle360/fix/issue-27-club-join",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-dev.20",
@@ -259,6 +260,15 @@
             "commit": "b881ac53c",
             "date": "2026-09-21T15:51:40Z",
             "changelog": "Merge pull request #142 from Bottle360/BD-4727-pickup-shipping-charge",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.57",
+            "zip": "assets/bottle360bridge-4.5.11-dev.57.zip",
+            "sha256": "44b5b7c6ae170436fb7dd06a8b67a91d0e1454da3621510b36c2bfc854b7dfb8",
+            "commit": "4514d1e92",
+            "date": "2026-09-22T08:37:21Z",
+            "changelog": "Merge pull request #155 from Bottle360/BD-4761-recaptcha-consent-readiness-development",
             "state_migration": false
         }
     ]
