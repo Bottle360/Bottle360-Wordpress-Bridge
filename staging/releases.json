@@ -78,7 +78,8 @@
             "commit": "c7742deb4",
             "date": "2026-08-13T07:21:20Z",
             "changelog": "Merge pull request #20 from Bottle360/add-studio-asset-deploy-step",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-rc.17",
@@ -249,6 +250,15 @@
             "commit": "3db4887ef",
             "date": "2026-09-21T15:56:16Z",
             "changelog": "Merge pull request #144 from Bottle360/BD-4727-pickup-shipping-charge-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.56",
+            "zip": "assets/bottle360bridge-4.5.11-rc.56.zip",
+            "sha256": "e0f77e95aade5d3574a14d590cdda9ad792a589ca732b7f846d5681a49213a1e",
+            "commit": "ab8d28bed",
+            "date": "2026-09-22T08:37:08Z",
+            "changelog": "Merge pull request #156 from Bottle360/BD-4761-recaptcha-consent-readiness-staging",
             "state_migration": false
         }
     ]
