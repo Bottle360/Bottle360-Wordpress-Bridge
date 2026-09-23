@@ -108,7 +108,8 @@
             "commit": "fc277f04d",
             "date": "2026-08-21T23:53:14Z",
             "changelog": "Merge pull request #37 from Bottle360/bd4524-embed-vault-gate-dev",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.9-dev.24",
@@ -279,6 +280,15 @@
             "commit": "8254ca899",
             "date": "2026-09-22T17:55:28Z",
             "changelog": "Merge pull request #163 from Bottle360/BD-4723-minmax-input-and-route-class-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.62",
+            "zip": "assets/bottle360bridge-4.5.11-dev.62.zip",
+            "sha256": "1e53a04854be0f32923f387759e847ddeaf252abb49cb2f02433ce509ddf80b3",
+            "commit": "894933768",
+            "date": "2026-09-23T04:48:03Z",
+            "changelog": "Merge pull request #170 from Bottle360/BD-4777-no-shortcode-tokens-in-inline-assets-development",
             "state_migration": false
         }
     ]
