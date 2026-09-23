@@ -108,7 +108,8 @@
             "commit": "3a938361b",
             "date": "2026-08-19T23:13:51Z",
             "changelog": "Merge pull request #36 from Bottle360/bd4520-checkout-auth-gate-merge-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.1-rc.23",
@@ -279,6 +280,15 @@
             "commit": "0b93f7c89",
             "date": "2026-09-22T18:18:40Z",
             "changelog": "Merge pull request #160 from Bottle360/BD-4771-canonical-host-redirect-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.61",
+            "zip": "assets/bottle360bridge-4.5.11-rc.61.zip",
+            "sha256": "ad7281dcb0c7f3976c702735a12f4c4f520d781a59e168bdeb50b9c711c925c9",
+            "commit": "40cf31d5e",
+            "date": "2026-09-23T04:48:18Z",
+            "changelog": "Merge pull request #171 from Bottle360/BD-4777-no-shortcode-tokens-in-inline-assets-staging",
             "state_migration": false
         }
     ]
