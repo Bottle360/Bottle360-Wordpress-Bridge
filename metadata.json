@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.11",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.11.zip",
+    "version": "4.5.12",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.12.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "<h4>4.5.11</h4>\n<p><strong>Sign-in that works with cookie banners, correct shipping on pickup orders, clearer bottle quantity rules, and a storefront that stays readable on any site design.</strong></p>\n<ul>\n<li><strong>Sign In and Create Account no longer get stuck behind cookie banners.</strong> If a cookie or privacy tool blocks the security check, you now see a clear message and can try again instead of a spinner that never ends. Clicking Sign In right after the page loads also works reliably now.</li>\n<li><strong>Pickup orders are no longer charged shipping.</strong> Choosing Pickup at checkout now sticks, and the shipping line drops to zero right away.</li>\n<li><strong>Minimum and maximum bottle quantities are explained.</strong> When a wine can only be bought in certain quantities, the product card, cart drawer and checkout say so. The quantity box now adjusts when you finish typing rather than while you type.</li>\n<li><strong>Store pages open correctly from any version of your web address.</strong> Links that use \"www\" when your site does not (or the reverse) now land on the right address instead of a page that never loads.</li>\n<li><strong>New option: show \"Out of stock\" as a label instead of a greyed-out button.</strong> Off by default. Turn it on in the Styling Studio under Toggles.</li>\n<li><strong>The storefront stays readable on any site design.</strong> Each section now checks its own contrast against your site's background and adjusts if text would be hard to read. Sites on a default theme look the same as before.</li>\n<li><strong>\"Match my site\" in the Styling Studio keeps what you entered</strong> while you move between Studio panels, and explains in plain language if a match fails.</li>\n<li><strong>Small wording tidy-ups across the storefront.</strong> For example, an empty value now reads \"Not set\" instead of a stray dash.</li>\n</ul>"
+        "changelog": "<h4>4.5.12</h4>\n<p><strong>Fixes a display problem introduced in 4.5.11.</strong></p>\n<ul>\n<li><strong>Stray styling text and a second loading spinner no longer appear below the store and sign-in pages.</strong> On some site themes, 4.5.11 showed a block of technical text and an extra \"Loading...\" spinner under the storefront. Updating to 4.5.12 removes it.</li>\n</ul>"
     },
     "last_updated": "2026-07-29",
-    "sha256": "b7749697b8485a6bf02cd1eeb622e71d4daf22de4e954b7bb48d3a296b1b5364"
+    "sha256": "0f215fd21e9198f7b9eefcb49761ed073c8c2530ee8247e4deb0f45d8b7fdf7f"
 }
