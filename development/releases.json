@@ -118,7 +118,8 @@
             "commit": "35c6d33e1",
             "date": "2026-08-26T05:52:34Z",
             "changelog": "Merge pull request #54 from Bottle360/main-to-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.10-dev.27",
@@ -289,6 +290,15 @@
             "commit": "894933768",
             "date": "2026-09-23T04:48:03Z",
             "changelog": "Merge pull request #170 from Bottle360/BD-4777-no-shortcode-tokens-in-inline-assets-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.64",
+            "zip": "assets/bottle360bridge-4.5.11-dev.64.zip",
+            "sha256": "3e94f1b90ec383203ec939f2d51d7f3ed15235d721826fffbcc9854371f80ee8",
+            "commit": "cea4da9ae",
+            "date": "2026-09-23T05:07:31Z",
+            "changelog": "Merge pull request #152 from Bottle360/BD-4723-minmax-messaging-development",
             "state_migration": false
         }
     ]
