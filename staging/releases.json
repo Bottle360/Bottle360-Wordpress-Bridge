@@ -118,7 +118,8 @@
             "commit": "9bab8e91a",
             "date": "2026-08-21T23:53:53Z",
             "changelog": "Merge pull request #38 from Bottle360/bd4524-embed-vault-gate-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.9-rc.25",
@@ -289,6 +290,15 @@
             "commit": "40cf31d5e",
             "date": "2026-09-23T04:48:18Z",
             "changelog": "Merge pull request #171 from Bottle360/BD-4777-no-shortcode-tokens-in-inline-assets-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.63",
+            "zip": "assets/bottle360bridge-4.5.11-rc.63.zip",
+            "sha256": "5e59e4fc4aca0d8a71d67436251d1f532756ff39b1a55f79a9d4b7399f89d168",
+            "commit": "69ffb91ad",
+            "date": "2026-09-23T05:07:19Z",
+            "changelog": "Merge pull request #177 from Bottle360/BD-4775-style-match-parity-staging",
             "state_migration": false
         }
     ]
