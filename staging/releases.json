@@ -128,7 +128,8 @@
             "commit": "5eb1c1b39",
             "date": "2026-08-26T05:53:02Z",
             "changelog": "Merge pull request #53 from Bottle360/main-to-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.10-rc.26",
@@ -299,6 +300,15 @@
             "commit": "69ffb91ad",
             "date": "2026-09-23T05:07:19Z",
             "changelog": "Merge pull request #177 from Bottle360/BD-4775-style-match-parity-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.66",
+            "zip": "assets/bottle360bridge-4.5.11-rc.66.zip",
+            "sha256": "51a3fb5f1df08bd023d9a9a1a4b7910d802d15cb1d48dbf0eb0a2a1ec8a6aa71",
+            "commit": "af1e5589b",
+            "date": "2026-09-23T17:07:27Z",
+            "changelog": "Merge pull request #167 from Bottle360/BD-4589-card-changes-live-staging",
             "state_migration": false
         }
     ]
