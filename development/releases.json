@@ -178,7 +178,8 @@
             "commit": "e15731a39",
             "date": "2026-09-09T16:43:57Z",
             "changelog": "Merge pull request #115 from Bottle360/fix-studio-theme-import-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.37",
@@ -349,6 +350,15 @@
             "commit": "d05ef4b0e",
             "date": "2026-09-24T19:22:41Z",
             "changelog": "Merge pull request #184 from Bottle360/BD-4768-no-client-heal-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.74",
+            "zip": "assets/bottle360bridge-4.5.11-dev.74.zip",
+            "sha256": "e3bfdc18e741845f89cde25eb686a22f386d22a7cbbe3667ff7450bc2a27a466",
+            "commit": "94de59453",
+            "date": "2026-09-24T22:30:15Z",
+            "changelog": "Merge pull request #189 from Bottle360/BD-4401-membership-edit-card-address-development",
             "state_migration": false
         }
     ]
