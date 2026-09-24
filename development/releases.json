@@ -148,7 +148,8 @@
             "commit": "66bad5b4c",
             "date": "2026-09-02T16:52:04Z",
             "changelog": "Merge pull request #90 from Bottle360/bd-savegate-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.32",
@@ -319,6 +320,15 @@
             "commit": "ffb40b115",
             "date": "2026-09-23T21:27:25Z",
             "changelog": "Merge pull request #166 from Bottle360/BD-4589-card-changes-live-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.68",
+            "zip": "assets/bottle360bridge-4.5.11-dev.68.zip",
+            "sha256": "0810a1f454389ea62c179cb97d8d55ae4c0daa62ebf135c70bfd40b20fac564e",
+            "commit": "229de4c40",
+            "date": "2026-09-24T15:13:38Z",
+            "changelog": "Merge pull request #159 from Bottle360/BD-4771-canonical-host-redirect-development",
             "state_migration": false
         }
     ]
