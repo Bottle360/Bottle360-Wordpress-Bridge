@@ -138,7 +138,8 @@
             "commit": "49b24b92a",
             "date": "2026-08-26T21:38:37Z",
             "changelog": "Trickle-down: catch staging up to main (4.5.9) (#56)",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.10-rc.29",
@@ -309,6 +310,15 @@
             "commit": "af1e5589b",
             "date": "2026-09-23T17:07:27Z",
             "changelog": "Merge pull request #167 from Bottle360/BD-4589-card-changes-live-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.70",
+            "zip": "assets/bottle360bridge-4.5.11-rc.70.zip",
+            "sha256": "f7b91eff8cada159ee391b606d00ce6b1f8d74866a891dc56e53cbb0449416be",
+            "commit": "73fa4d691",
+            "date": "2026-09-24T18:20:07Z",
+            "changelog": "Merge pull request #181 from Bottle360/BD-4768-club-pickup-display-staging",
             "state_migration": false
         }
     ]
