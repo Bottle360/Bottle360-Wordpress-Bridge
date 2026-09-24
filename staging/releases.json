@@ -158,7 +158,8 @@
             "commit": "81fdf026b",
             "date": "2026-09-02T16:52:22Z",
             "changelog": "Merge pull request #91 from Bottle360/bd-savegate-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.33",
@@ -329,6 +330,15 @@
             "commit": "5bd899740",
             "date": "2026-09-24T19:23:15Z",
             "changelog": "Merge pull request #185 from Bottle360/BD-4768-club-pickup-display-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.73",
+            "zip": "assets/bottle360bridge-4.5.11-rc.73.zip",
+            "sha256": "29806160a328e85dc1fa704d953932169ba2fee57ec08c1bb2270a719420de7b",
+            "commit": "a55af0518",
+            "date": "2026-09-24T22:04:02Z",
+            "changelog": "Merge pull request #190 from Bottle360/BD-4401-membership-edit-card-address-staging",
             "state_migration": false
         }
     ]
