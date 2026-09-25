@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.12",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.12.zip",
+    "version": "4.5.13",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.13.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "<h4>4.5.12</h4>\n<p><strong>Fixes a display problem introduced in 4.5.11.</strong></p>\n<ul>\n<li><strong>Stray styling text and a second loading spinner no longer appear below the store and sign-in pages.</strong> On some site themes, 4.5.11 showed a block of technical text and an extra \"Loading...\" spinner under the storefront. Updating to 4.5.12 removes it.</li>\n</ul>"
+        "changelog": "<h4>4.5.13</h4>\n<p><strong>Smoother club memberships and saved cards.</strong></p>\n<ul>\n<li><strong>Saved cards show up right away when you add or remove one</strong>, no refresh needed.</li>\n<li><strong>Club members on pickup now see \"Pickup\" and their pickup location</strong> instead of a shipping address.</li>\n<li><strong>Members can update their club card or add a new billing or shipping address right from their membership page</strong>, and any problem shows in the form.</li>\n<li><strong>Safer \"Match my site\" styling in the Styling Studio.</strong></li>\n</ul>"
     },
     "last_updated": "2026-07-29",
-    "sha256": "0f215fd21e9198f7b9eefcb49761ed073c8c2530ee8247e4deb0f45d8b7fdf7f"
+    "sha256": "f5ebef406d1cc81ed4fe7a2397f437881c7db3cbfb5849025dc3e83061f992ed"
 }
