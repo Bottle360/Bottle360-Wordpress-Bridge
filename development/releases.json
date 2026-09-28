@@ -188,7 +188,8 @@
             "commit": "d8d24e549",
             "date": "2026-09-09T16:47:53Z",
             "changelog": "Merge pull request #95 from Bottle360/hotfix-search-clear-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.40",
@@ -359,6 +360,15 @@
             "commit": "94de59453",
             "date": "2026-09-24T22:30:15Z",
             "changelog": "Merge pull request #189 from Bottle360/BD-4401-membership-edit-card-address-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.75",
+            "zip": "assets/bottle360bridge-4.5.11-dev.75.zip",
+            "sha256": "602e6a9891b615e0e633210b4ce609da64a96b709834d118860272357d1a6c72",
+            "commit": "40aeab48b",
+            "date": "2026-09-28T20:02:38Z",
+            "changelog": "Merge pull request #197 from Bottle360/BD-4682-express-pay-review-fixes-development",
             "state_migration": false
         }
     ]
