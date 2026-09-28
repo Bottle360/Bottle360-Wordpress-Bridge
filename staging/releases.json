@@ -178,7 +178,8 @@
             "commit": "e5084f89d",
             "date": "2026-09-08T19:19:45Z",
             "changelog": "Merge pull request #109 from Bottle360/hotfix-search-clear-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.38",
@@ -349,6 +350,15 @@
             "commit": "442b64e56",
             "date": "2026-09-28T20:02:43Z",
             "changelog": "Merge pull request #198 from Bottle360/BD-4682-express-pay-review-fixes-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.78",
+            "zip": "assets/bottle360bridge-4.5.11-rc.78.zip",
+            "sha256": "2eec4c65a38344e7cd7300b429e21fa29fb823e3bff4135ebafde1de6ae1317d",
+            "commit": "26e4a9787",
+            "date": "2026-09-28T20:07:29Z",
+            "changelog": "Merge pull request #195 from Bottle360/secure-message-teaser-lines-staging",
             "state_migration": false
         }
     ]
