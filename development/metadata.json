@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.11-dev.75",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.11-dev.75.zip",
+    "version": "4.5.11-dev.76",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.11-dev.76.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "602e6a9891b615e0e633210b4ce609da64a96b709834d118860272357d1a6c72",
+    "sha256": "ddd23f2316cf7395f3a9aa664bc7933fabe116d1aef52f6ca57ba7cf1b98883a",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.11-dev.75\nMerge pull request #197 from Bottle360/BD-4682-express-pay-review-fixes-development"
+        "changelog": "development 4.5.11-dev.76\nMerge pull request #194 from Bottle360/secure-message-teaser-lines-development"
     },
     "last_updated": "2026-09-28"
 }
