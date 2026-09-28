@@ -168,7 +168,8 @@
             "commit": "65c04ca2f",
             "date": "2026-09-04T17:44:50Z",
             "changelog": "Merge pull request #101 from Bottle360/bd4626-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.35",
@@ -339,6 +340,15 @@
             "commit": "a55af0518",
             "date": "2026-09-24T22:04:02Z",
             "changelog": "Merge pull request #190 from Bottle360/BD-4401-membership-edit-card-address-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.77",
+            "zip": "assets/bottle360bridge-4.5.11-rc.77.zip",
+            "sha256": "407e8db42985dfb9d78bcd846aadab5324f3a0271c371cbb28745f738c7f24af",
+            "commit": "442b64e56",
+            "date": "2026-09-28T20:02:43Z",
+            "changelog": "Merge pull request #198 from Bottle360/BD-4682-express-pay-review-fixes-staging",
             "state_migration": false
         }
     ]
