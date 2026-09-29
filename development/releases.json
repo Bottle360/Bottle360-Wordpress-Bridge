@@ -218,7 +218,8 @@
             "commit": "45a850716",
             "date": "2026-09-14T18:27:25Z",
             "changelog": "Merge pull request #136 from Bottle360/sweep-copy-fixes-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.45",
@@ -389,6 +390,15 @@
             "commit": "f3c6b1fd3",
             "date": "2026-09-29T13:36:20Z",
             "changelog": "Merge pull request #202 from Bottle360/sqps-hash-only-on-store-pages-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.82",
+            "zip": "assets/bottle360bridge-4.5.11-dev.82.zip",
+            "sha256": "664e2910a146ab4d29244f79e6ac2a97be071718bbfaf22ecf5e9d94c8374db1",
+            "commit": "5444156e9",
+            "date": "2026-09-29T15:23:17Z",
+            "changelog": "Merge pull request #199 from Bottle360/BD-4803-virtual-products-development",
             "state_migration": false
         }
     ]
