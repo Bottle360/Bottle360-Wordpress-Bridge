@@ -188,7 +188,8 @@
             "commit": "c4f47d3c6",
             "date": "2026-09-09T16:57:59Z",
             "changelog": "Merge pull request #104 from Bottle360/cana-dan-studio-default-sort-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.39",
@@ -359,6 +360,15 @@
             "commit": "26e4a9787",
             "date": "2026-09-28T20:07:29Z",
             "changelog": "Merge pull request #195 from Bottle360/secure-message-teaser-lines-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.80",
+            "zip": "assets/bottle360bridge-4.5.11-rc.80.zip",
+            "sha256": "1cd62c30abc51ba29e5a0f1b88bf30a3458698c267865de710a08f3e759e16d1",
+            "commit": "460a8c727",
+            "date": "2026-09-29T13:36:35Z",
+            "changelog": "Merge pull request #203 from Bottle360/sqps-hash-only-on-store-pages-staging",
             "state_migration": false
         }
     ]
