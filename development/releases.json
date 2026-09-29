@@ -208,7 +208,8 @@
             "commit": "c63d55b23",
             "date": "2026-09-14T18:11:48Z",
             "changelog": "Merge pull request #126 from Bottle360/styling-studio-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.43",
@@ -379,6 +380,15 @@
             "commit": "b2e62f1f8",
             "date": "2026-09-28T20:06:28Z",
             "changelog": "Merge pull request #194 from Bottle360/secure-message-teaser-lines-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.79",
+            "zip": "assets/bottle360bridge-4.5.11-dev.79.zip",
+            "sha256": "4dbaa40d174f22614798eb766b9b4b2fd84212d8155493e56a53e4c18850eb5f",
+            "commit": "f3c6b1fd3",
+            "date": "2026-09-29T13:36:20Z",
+            "changelog": "Merge pull request #202 from Bottle360/sqps-hash-only-on-store-pages-development",
             "state_migration": false
         }
     ]
