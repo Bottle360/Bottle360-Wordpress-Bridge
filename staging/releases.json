@@ -198,7 +198,8 @@
             "commit": "4b6c112e4",
             "date": "2026-09-14T17:44:30Z",
             "changelog": "Merge pull request #128 from Bottle360/styling-studio-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.41",
@@ -369,6 +370,15 @@
             "commit": "460a8c727",
             "date": "2026-09-29T13:36:35Z",
             "changelog": "Merge pull request #203 from Bottle360/sqps-hash-only-on-store-pages-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.81",
+            "zip": "assets/bottle360bridge-4.5.11-rc.81.zip",
+            "sha256": "7753da80e3e9832ee3c2313671c022dc1ebd6e69a83605dbe08299949f7d1e70",
+            "commit": "7a9b99dd4",
+            "date": "2026-09-29T15:16:50Z",
+            "changelog": "Merge pull request #200 from Bottle360/BD-4803-virtual-products-staging",
             "state_migration": false
         }
     ]
