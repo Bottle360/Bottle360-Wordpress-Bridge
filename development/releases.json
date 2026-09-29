@@ -238,7 +238,8 @@
             "commit": "d41cd2780",
             "date": "2026-09-15T21:19:36Z",
             "changelog": "Merge pull request #138 from Bottle360/feature/express-pay-hardening",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.49",
@@ -409,6 +410,15 @@
             "commit": "5444156e9",
             "date": "2026-09-29T15:31:33Z",
             "changelog": "Merge pull request #199 from Bottle360/BD-4803-virtual-products-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.84",
+            "zip": "assets/bottle360bridge-4.5.11-dev.84.zip",
+            "sha256": "37b04529d6ecd8040e9d5e83777339427fd17fdfe000c8ed7c63ad72817d67fc",
+            "commit": "9099cc1d1",
+            "date": "2026-09-29T22:16:31Z",
+            "changelog": "Merge pull request #208 from Bottle360/BD-4849-express-pay-review-first-development",
             "state_migration": false
         }
     ]
