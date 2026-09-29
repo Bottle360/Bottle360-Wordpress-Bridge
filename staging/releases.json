@@ -208,7 +208,8 @@
             "commit": "ad92c60e0",
             "date": "2026-09-14T17:48:35Z",
             "changelog": "Merge pull request #129 from Bottle360/em-dash-sweep-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.44",
@@ -379,6 +380,15 @@
             "commit": "7a9b99dd4",
             "date": "2026-09-29T15:16:50Z",
             "changelog": "Merge pull request #200 from Bottle360/BD-4803-virtual-products-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.85",
+            "zip": "assets/bottle360bridge-4.5.11-rc.85.zip",
+            "sha256": "50793696f1cbe42ce8e35d0a872b2c879eab796bfb844e6f0bf59d6eec96fce7",
+            "commit": "00c3d6416",
+            "date": "2026-09-29T22:16:59Z",
+            "changelog": "Merge pull request #206 from Bottle360/BD-4849-express-pay-review-first-staging",
             "state_migration": false
         }
     ]
