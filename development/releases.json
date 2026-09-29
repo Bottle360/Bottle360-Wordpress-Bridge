@@ -228,7 +228,8 @@
             "commit": "459234d93",
             "date": "2026-09-15T01:14:14Z",
             "changelog": "Merge pull request #132 from Bottle360/feature/express-pay-google",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.47",
@@ -398,6 +399,15 @@
             "sha256": "664e2910a146ab4d29244f79e6ac2a97be071718bbfaf22ecf5e9d94c8374db1",
             "commit": "5444156e9",
             "date": "2026-09-29T15:23:17Z",
+            "changelog": "Merge pull request #199 from Bottle360/BD-4803-virtual-products-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.83",
+            "zip": "assets/bottle360bridge-4.5.11-dev.83.zip",
+            "sha256": "72e2b8d6c389d7334126384b9afd73b955f47e384759d26fe85c5a8f303ac2c9",
+            "commit": "5444156e9",
+            "date": "2026-09-29T15:31:33Z",
             "changelog": "Merge pull request #199 from Bottle360/BD-4803-virtual-products-development",
             "state_migration": false
         }
