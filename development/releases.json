@@ -248,7 +248,8 @@
             "commit": "382d5769e",
             "date": "2026-09-21T15:10:12Z",
             "changelog": "Merge pull request #147 from Bottle360/BD-4726-redemption-panel-settings-gate",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.51",
@@ -419,6 +420,15 @@
             "commit": "9099cc1d1",
             "date": "2026-09-29T22:16:31Z",
             "changelog": "Merge pull request #208 from Bottle360/BD-4849-express-pay-review-first-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.86",
+            "zip": "assets/bottle360bridge-4.5.11-dev.86.zip",
+            "sha256": "de41fb8cc582ac4209dfac5df6b1b6fdd75ea1feae53f98003231a7e3cd93826",
+            "commit": "87254ab20",
+            "date": "2026-10-02T22:16:59Z",
+            "changelog": "Merge pull request #209 from Bottle360/BD-4855-review-guest-held-address-development",
             "state_migration": false
         }
     ]
