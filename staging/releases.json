@@ -228,7 +228,8 @@
             "commit": "fb381a1c0",
             "date": "2026-09-15T01:14:35Z",
             "changelog": "Merge pull request #133 from Bottle360/feature/express-pay-google-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.48",
@@ -399,6 +400,15 @@
             "commit": "3b01b792f",
             "date": "2026-10-02T22:16:56Z",
             "changelog": "Merge pull request #210 from Bottle360/BD-4855-review-guest-held-address-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.89",
+            "zip": "assets/bottle360bridge-4.5.11-rc.89.zip",
+            "sha256": "ff54ee3d9249a3dbf8530117e8d80f409224cdcfc6f0bf40cb449ac086197c3d",
+            "commit": "1ce9cc7eb",
+            "date": "2026-10-03T10:08:10Z",
+            "changelog": "Merge pull request #213 from Bottle360/BD-4825-known-email-flow-staging",
             "state_migration": false
         }
     ]
