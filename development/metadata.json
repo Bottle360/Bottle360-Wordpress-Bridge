@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.11-dev.86",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.11-dev.86.zip",
+    "version": "4.5.11-dev.88",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.11-dev.88.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "de41fb8cc582ac4209dfac5df6b1b6fdd75ea1feae53f98003231a7e3cd93826",
+    "sha256": "ec208da18265fe456542fc27baf0c2a039a8f9bcd928e7693893f6590b7c67a9",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.11-dev.86\nMerge pull request #209 from Bottle360/BD-4855-review-guest-held-address-development"
+        "changelog": "development 4.5.11-dev.88\nMerge pull request #212 from Bottle360/BD-4825-known-email-flow-development"
     },
-    "last_updated": "2026-10-02"
+    "last_updated": "2026-10-03"
 }

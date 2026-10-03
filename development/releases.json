@@ -258,7 +258,8 @@
             "commit": "260c99311",
             "date": "2026-09-21T15:40:17Z",
             "changelog": "Merge pull request #140 from Bottle360/release-notes-4.5.11",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.52",
@@ -429,6 +430,15 @@
             "commit": "87254ab20",
             "date": "2026-10-02T22:16:59Z",
             "changelog": "Merge pull request #209 from Bottle360/BD-4855-review-guest-held-address-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.88",
+            "zip": "assets/bottle360bridge-4.5.11-dev.88.zip",
+            "sha256": "ec208da18265fe456542fc27baf0c2a039a8f9bcd928e7693893f6590b7c67a9",
+            "commit": "373c29582",
+            "date": "2026-10-03T10:08:03Z",
+            "changelog": "Merge pull request #212 from Bottle360/BD-4825-known-email-flow-development",
             "state_migration": false
         }
     ]
