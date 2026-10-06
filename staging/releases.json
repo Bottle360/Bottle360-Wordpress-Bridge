@@ -258,7 +258,8 @@
             "commit": "8dc5d7f8f",
             "date": "2026-09-21T15:51:13Z",
             "changelog": "Merge pull request #143 from Bottle360/BD-4633-native-oos-label-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.55",
@@ -429,6 +430,15 @@
             "commit": "a7e55df1e",
             "date": "2026-10-06T16:13:39Z",
             "changelog": "Merge pull request #217 from Bottle360/BD-4870-teaser-html-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.95",
+            "zip": "assets/bottle360bridge-4.5.11-rc.95.zip",
+            "sha256": "16d8332fed39ac812da08976af268d0fd688b538751ff101abb95ef5c3a515d7",
+            "commit": "2bdc3ec68",
+            "date": "2026-10-06T22:36:53Z",
+            "changelog": "Merge pull request #230 from Bottle360/BD-4908-qty-hint-staging",
             "state_migration": false
         }
     ]
