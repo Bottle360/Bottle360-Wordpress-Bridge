@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.14",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.14.zip",
+    "version": "4.5.15",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.15.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "<h4>4.5.14</h4>\n<p><strong>Easier checkout for gift cards, clearer club messages.</strong></p>\n<ul>\n<li><strong>Orders with nothing to ship, such as gift cards, now check out with just a billing address.</strong> No delivery choice, shipping address or carrier step.</li>\n<li><strong>\"Join the club\" links in club-only and locked product messages now show as working links</strong> instead of raw text.</li>\n<li><strong>Short descriptions on product cards show more text</strong>, and a new setting in the Styling Studio picks the length.</li>\n<li><strong>Google Pay is ready for checkout</strong>, with a new Express Pay section in the Styling Studio. It stays off until it is turned on for your winery.</li>\n</ul>"
+        "changelog": "What's new in 4.5.15\n- Google Pay now lands on the Review step so shoppers can check their order before it is charged.\n- Guest checkout shows the address the shopper typed on the Review step instead of \"Billing address pending\".\n- Creating an account or checking out with an email that already has an account now offers Sign in and Forgot password, with the email filled in.\n- Shoppers who sign in partway through checkout keep the address they typed, and Place Order waits until it is saved."
     },
     "last_updated": "2026-07-29",
-    "sha256": "af47d8424cdb6f11382586ff960def212bd6ef64048dd2be11682b2858d1489a"
+    "sha256": "2b653d5f23c9f4aa91eeae61b0d043a4028a0eea7e52de995f6d7e930ed38364"
 }
