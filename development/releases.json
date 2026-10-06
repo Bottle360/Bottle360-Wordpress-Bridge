@@ -288,7 +288,8 @@
             "commit": "4514d1e92",
             "date": "2026-09-22T08:37:21Z",
             "changelog": "Merge pull request #155 from Bottle360/BD-4761-recaptcha-consent-readiness-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.58",
@@ -459,6 +460,15 @@
             "commit": "7b1d663de",
             "date": "2026-10-06T16:11:45Z",
             "changelog": "Merge pull request #219 from Bottle360/BD-4870-teaser-html-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.94",
+            "zip": "assets/bottle360bridge-4.5.11-dev.94.zip",
+            "sha256": "8007ab1eb5e28593de7eb2a94ddaf0fa0fc2ba831c84ecbda3535900f4ad4df3",
+            "commit": "9093876d9",
+            "date": "2026-10-06T22:37:39Z",
+            "changelog": "Merge pull request #229 from Bottle360/BD-4908-qty-hint-development",
             "state_migration": false
         }
     ]
