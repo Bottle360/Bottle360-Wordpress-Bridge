@@ -278,7 +278,8 @@
             "commit": "b881ac53c",
             "date": "2026-09-21T15:51:40Z",
             "changelog": "Merge pull request #142 from Bottle360/BD-4727-pickup-shipping-charge",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.57",
@@ -449,6 +450,15 @@
             "commit": "1e89c3957",
             "date": "2026-10-06T10:16:41Z",
             "changelog": "Merge pull request #223 from Bottle360/BD-2276-apple-pay-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.92",
+            "zip": "assets/bottle360bridge-4.5.11-dev.92.zip",
+            "sha256": "6ed98f46be6409b3459df4a4239fd91ac8d179dd746b042f0ab4ba803520cec2",
+            "commit": "7b1d663de",
+            "date": "2026-10-06T16:11:45Z",
+            "changelog": "Merge pull request #219 from Bottle360/BD-4870-teaser-html-development",
             "state_migration": false
         }
     ]
