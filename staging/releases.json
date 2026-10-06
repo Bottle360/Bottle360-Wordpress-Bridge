@@ -268,7 +268,8 @@
             "commit": "3db4887ef",
             "date": "2026-09-21T15:56:16Z",
             "changelog": "Merge pull request #144 from Bottle360/BD-4727-pickup-shipping-charge-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.56",
@@ -439,6 +440,15 @@
             "commit": "2bdc3ec68",
             "date": "2026-10-06T22:36:53Z",
             "changelog": "Merge pull request #230 from Bottle360/BD-4908-qty-hint-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.97",
+            "zip": "assets/bottle360bridge-4.5.11-rc.97.zip",
+            "sha256": "84c06cebb61dfe2051946ad833c8c17d68804cc040632bcbb23d2f246d1e46fa",
+            "commit": "b3dbf7ec4",
+            "date": "2026-10-06T22:40:26Z",
+            "changelog": "Merge pull request #221 from Bottle360/BD-4783-stale-bundle-recovery-staging",
             "state_migration": false
         }
     ]
