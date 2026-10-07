@@ -278,7 +278,8 @@
             "commit": "ab8d28bed",
             "date": "2026-09-22T08:37:08Z",
             "changelog": "Merge pull request #156 from Bottle360/BD-4761-recaptcha-consent-readiness-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.59",
@@ -449,6 +450,15 @@
             "commit": "b3dbf7ec4",
             "date": "2026-10-06T22:40:26Z",
             "changelog": "Merge pull request #221 from Bottle360/BD-4783-stale-bundle-recovery-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.99",
+            "zip": "assets/bottle360bridge-4.5.11-rc.99.zip",
+            "sha256": "bdecd65ba6796606afb9cb0ebb8d9f72b1dcd9eb8165f395aefaad630831dd31",
+            "commit": "e9ef7dad9",
+            "date": "2026-10-07T00:54:25Z",
+            "changelog": "Merge pull request #226 from Bottle360/BD-4908-checkout-ux-staging",
             "state_migration": false
         }
     ]
