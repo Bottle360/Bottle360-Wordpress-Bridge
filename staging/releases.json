@@ -288,7 +288,8 @@
             "commit": "16ae3e824",
             "date": "2026-09-22T18:04:37Z",
             "changelog": "Merge pull request #164 from Bottle360/BD-4723-minmax-input-and-route-class-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.60",
@@ -459,6 +460,15 @@
             "commit": "e9ef7dad9",
             "date": "2026-10-07T00:54:25Z",
             "changelog": "Merge pull request #226 from Bottle360/BD-4908-checkout-ux-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.101",
+            "zip": "assets/bottle360bridge-4.5.11-rc.101.zip",
+            "sha256": "029ae228f779300f670bb985bfa247941856b4118e58a7826b534a66eb7f11b6",
+            "commit": "d08c9571a",
+            "date": "2026-10-07T20:41:52Z",
+            "changelog": "Merge pull request #234 from Bottle360/BD-4908-address-step-staging",
             "state_migration": false
         }
     ]
