@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.15",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.15.zip",
+    "version": "4.5.16",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.16.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.15\n- Google Pay now lands on the Review step so shoppers can check their order before it is charged.\n- Guest checkout shows the address the shopper typed on the Review step instead of \"Billing address pending\".\n- Creating an account or checking out with an email that already has an account now offers Sign in and Forgot password, with the email filled in.\n- Shoppers who sign in partway through checkout keep the address they typed, and Place Order waits until it is saved."
+        "changelog": "What's new in 4.5.16\n- Apple Pay can be offered at checkout alongside Google Pay. Ask Bottle360 to turn it on once your NMI account has Apple Pay enabled.\n- Checkout is tidier: totals agree across the page, there is less clutter, and error messages clear once the problem is fixed.\n- Product teasers and category descriptions keep their formatting, and teaser text size is now a Styling Studio setting.\n- After an update, visitors on a cached page get the current version of the store instead of a broken one."
     },
     "last_updated": "2026-07-29",
-    "sha256": "2b653d5f23c9f4aa91eeae61b0d043a4028a0eea7e52de995f6d7e930ed38364"
+    "sha256": "d9ba66475e1da83e7b5cff216bc81ca7cda7f7929347c0579ec91df3fef734ba"
 }
