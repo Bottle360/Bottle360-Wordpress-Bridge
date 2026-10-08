@@ -298,7 +298,8 @@
             "commit": "0b93f7c89",
             "date": "2026-09-22T18:18:40Z",
             "changelog": "Merge pull request #160 from Bottle360/BD-4771-canonical-host-redirect-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.61",
@@ -469,6 +470,15 @@
             "commit": "d08c9571a",
             "date": "2026-10-07T20:41:52Z",
             "changelog": "Merge pull request #234 from Bottle360/BD-4908-address-step-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.103",
+            "zip": "assets/bottle360bridge-4.5.11-rc.103.zip",
+            "sha256": "8a689702905f0afc417e986a52cbe404a6a5a32f7319bc5083ca625f8c7c81cf",
+            "commit": "239f115e7",
+            "date": "2026-10-08T11:02:55Z",
+            "changelog": "Merge pull request #240 from Bottle360/BD-2276-apple-pay-all-browsers-staging",
             "state_migration": false
         }
     ]
