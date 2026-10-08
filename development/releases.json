@@ -328,7 +328,8 @@
             "commit": "ce695e093",
             "date": "2026-09-23T05:11:21Z",
             "changelog": "Merge pull request #176 from Bottle360/BD-4775-style-match-parity-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.67",
@@ -499,6 +500,15 @@
             "commit": "d89839a91",
             "date": "2026-10-07T20:41:34Z",
             "changelog": "Merge pull request #233 from Bottle360/BD-4908-address-step-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.102",
+            "zip": "assets/bottle360bridge-4.5.11-dev.102.zip",
+            "sha256": "896ae2c226a638727dac43af70a457dec0b34c5f90746ed38ba071f23979f3d4",
+            "commit": "5fc447b10",
+            "date": "2026-10-08T11:02:40Z",
+            "changelog": "Merge pull request #239 from Bottle360/BD-2276-apple-pay-all-browsers-development",
             "state_migration": false
         }
     ]
