@@ -308,7 +308,8 @@
             "commit": "40cf31d5e",
             "date": "2026-09-23T04:48:18Z",
             "changelog": "Merge pull request #171 from Bottle360/BD-4777-no-shortcode-tokens-in-inline-assets-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.63",
@@ -479,6 +480,15 @@
             "commit": "239f115e7",
             "date": "2026-10-08T11:02:55Z",
             "changelog": "Merge pull request #240 from Bottle360/BD-2276-apple-pay-all-browsers-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.105",
+            "zip": "assets/bottle360bridge-4.5.11-rc.105.zip",
+            "sha256": "214e0142ab2d22503ea0462879553e862144b970d96747f7a96eab44f2c6b9cf",
+            "commit": "3d4e73510",
+            "date": "2026-10-09T15:41:16Z",
+            "changelog": "Merge pull request #246 from Bottle360/BD-4943-order-receipt-staging",
             "state_migration": false
         }
     ]
