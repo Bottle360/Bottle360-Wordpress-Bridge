@@ -378,7 +378,8 @@
             "commit": "94de59453",
             "date": "2026-09-24T22:30:15Z",
             "changelog": "Merge pull request #189 from Bottle360/BD-4401-membership-edit-card-address-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.75",
@@ -549,6 +550,15 @@
             "commit": "32339a1f8",
             "date": "2026-10-12T17:24:05Z",
             "changelog": "Merge pull request #253 from Bottle360/bump-4.5.16-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.17-dev.111",
+            "zip": "assets/bottle360bridge-4.5.17-dev.111.zip",
+            "sha256": "35fe95ce5cb6baef04ab6d3f8396c804fb1019feae1950ef183179bd77868d7c",
+            "commit": "643096747",
+            "date": "2026-10-12T17:28:11Z",
+            "changelog": "Merge pull request #250 from Bottle360/BD-4965-google-address-development",
             "state_migration": false
         }
     ]
