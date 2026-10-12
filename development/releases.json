@@ -388,7 +388,8 @@
             "commit": "40aeab48b",
             "date": "2026-09-28T20:02:38Z",
             "changelog": "Merge pull request #197 from Bottle360/BD-4682-express-pay-review-fixes-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.76",
@@ -559,6 +560,15 @@
             "commit": "643096747",
             "date": "2026-10-12T17:28:11Z",
             "changelog": "Merge pull request #250 from Bottle360/BD-4965-google-address-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.17-dev.113",
+            "zip": "assets/bottle360bridge-4.5.17-dev.113.zip",
+            "sha256": "be1e2c7f2865e66493ccfd9a6a4573a4ec37d0fa001cc2412703c4798e7aefef",
+            "commit": "7aa8a4db3",
+            "date": "2026-10-12T17:42:58Z",
+            "changelog": "Merge pull request #255 from Bottle360/channel-version-from-prod-merge-dev",
             "state_migration": false
         }
     ]
