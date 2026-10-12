@@ -398,7 +398,8 @@
             "commit": "b2e62f1f8",
             "date": "2026-09-28T20:06:28Z",
             "changelog": "Merge pull request #194 from Bottle360/secure-message-teaser-lines-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.79",
@@ -569,6 +570,15 @@
             "commit": "7aa8a4db3",
             "date": "2026-10-12T17:42:58Z",
             "changelog": "Merge pull request #255 from Bottle360/channel-version-from-prod-merge-dev",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.17-dev.116",
+            "zip": "assets/bottle360bridge-4.5.17-dev.116.zip",
+            "sha256": "43df37e7bcbd474cb7d7ac2384f187d6999e2c98d48166a25e2afc12d86b8b96",
+            "commit": "1328b75e5",
+            "date": "2026-10-12T21:33:33Z",
+            "changelog": "Merge pull request #248 from Bottle360/BD-4929-pickup-billing-requote-development",
             "state_migration": false
         }
     ]

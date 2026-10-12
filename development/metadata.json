@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.17-dev.113",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.17-dev.113.zip",
+    "version": "4.5.17-dev.116",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.17-dev.116.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "be1e2c7f2865e66493ccfd9a6a4573a4ec37d0fa001cc2412703c4798e7aefef",
+    "sha256": "43df37e7bcbd474cb7d7ac2384f187d6999e2c98d48166a25e2afc12d86b8b96",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.17-dev.113\nMerge pull request #255 from Bottle360/channel-version-from-prod-merge-dev"
+        "changelog": "development 4.5.17-dev.116\nMerge pull request #248 from Bottle360/BD-4929-pickup-billing-requote-development"
     },
     "last_updated": "2026-10-12"
 }
