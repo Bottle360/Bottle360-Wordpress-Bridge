@@ -348,7 +348,8 @@
             "commit": "5bd899740",
             "date": "2026-09-24T19:23:15Z",
             "changelog": "Merge pull request #185 from Bottle360/BD-4768-club-pickup-display-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.73",
@@ -519,6 +520,15 @@
             "commit": "a1196a742",
             "date": "2026-10-12T17:28:28Z",
             "changelog": "Merge pull request #251 from Bottle360/BD-4965-google-address-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.17-rc.114",
+            "zip": "assets/bottle360bridge-4.5.17-rc.114.zip",
+            "sha256": "10434f2b2f27ec69f8aa5c8192b65070e28e693cf40c12a607d53c4b0bd19109",
+            "commit": "e375bb2eb",
+            "date": "2026-10-12T17:43:23Z",
+            "changelog": "Merge pull request #254 from Bottle360/bump-4.5.16-staging",
             "state_migration": false
         }
     ]

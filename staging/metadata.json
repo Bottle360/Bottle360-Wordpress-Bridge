@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.11-rc.112",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.11-rc.112.zip",
+    "version": "4.5.17-rc.114",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.17-rc.114.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "4ee5f69db2c251406a53c1e3e28ba4b82feb25bbf18710a8e1ad8643d743ed88",
+    "sha256": "10434f2b2f27ec69f8aa5c8192b65070e28e693cf40c12a607d53c4b0bd19109",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (staging channel)",
-        "changelog": "staging 4.5.11-rc.112\nMerge pull request #251 from Bottle360/BD-4965-google-address-staging"
+        "changelog": "staging 4.5.17-rc.114\nMerge pull request #254 from Bottle360/bump-4.5.16-staging"
     },
     "last_updated": "2026-10-12"
 }
