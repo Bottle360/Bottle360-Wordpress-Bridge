@@ -318,7 +318,8 @@
             "commit": "69ffb91ad",
             "date": "2026-09-23T05:07:19Z",
             "changelog": "Merge pull request #177 from Bottle360/BD-4775-style-match-parity-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.66",
@@ -489,6 +490,15 @@
             "commit": "3d4e73510",
             "date": "2026-10-09T15:41:16Z",
             "changelog": "Merge pull request #246 from Bottle360/BD-4943-order-receipt-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-rc.107",
+            "zip": "assets/bottle360bridge-4.5.11-rc.107.zip",
+            "sha256": "82941e204f3a06f3242585cf44118fb067b1fa11616b349ee956068c940684d4",
+            "commit": "f9809f61d",
+            "date": "2026-10-12T10:31:41Z",
+            "changelog": "Merge pull request #237 from Bottle360/BD-4921-nonce-hardening-staging",
             "state_migration": false
         }
     ]
