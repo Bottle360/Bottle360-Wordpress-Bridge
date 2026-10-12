@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.17-rc.114",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.17-rc.114.zip",
+    "version": "4.5.17-rc.115",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.17-rc.115.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "10434f2b2f27ec69f8aa5c8192b65070e28e693cf40c12a607d53c4b0bd19109",
+    "sha256": "8f62b73c6e74e82c54dbdfda55e3cc89934808c874b5eaf7e968c27d2dfaab86",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (staging channel)",
-        "changelog": "staging 4.5.17-rc.114\nMerge pull request #254 from Bottle360/bump-4.5.16-staging"
+        "changelog": "staging 4.5.17-rc.115\nMerge pull request #249 from Bottle360/BD-4929-wallet-billing-staging"
     },
     "last_updated": "2026-10-12"
 }
