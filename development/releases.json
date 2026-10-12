@@ -358,7 +358,8 @@
             "commit": "448684d1c",
             "date": "2026-09-24T17:50:46Z",
             "changelog": "Merge pull request #180 from Bottle360/BD-4768-club-pickup-display-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.71",
@@ -529,6 +530,15 @@
             "commit": "674272cf4",
             "date": "2026-10-12T10:25:00Z",
             "changelog": "Merge pull request #236 from Bottle360/BD-4921-nonce-hardening-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.11-dev.108",
+            "zip": "assets/bottle360bridge-4.5.11-dev.108.zip",
+            "sha256": "2bfcbccee93b1d54a37a25f9002ab4677ea4ee34da0582df96e528011f2e4475",
+            "commit": "085aa6ebf",
+            "date": "2026-10-12T15:30:44Z",
+            "changelog": "Merge pull request #242 from Bottle360/BD-4908-inline-form-style-development",
             "state_migration": false
         }
     ]

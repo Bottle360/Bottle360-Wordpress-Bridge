@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.11-dev.106",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.11-dev.106.zip",
+    "version": "4.5.11-dev.108",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.11-dev.108.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "75f97bcdaead069a4ab1c3a1331c52b6f64e2899a270fd7a97d1305bab701763",
+    "sha256": "2bfcbccee93b1d54a37a25f9002ab4677ea4ee34da0582df96e528011f2e4475",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.11-dev.106\nMerge pull request #236 from Bottle360/BD-4921-nonce-hardening-development"
+        "changelog": "development 4.5.11-dev.108\nMerge pull request #242 from Bottle360/BD-4908-inline-form-style-development"
     },
     "last_updated": "2026-10-12"
 }
