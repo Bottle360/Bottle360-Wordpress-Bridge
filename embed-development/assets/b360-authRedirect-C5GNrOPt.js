@@ -1,0 +1,1 @@
+function e(e){return!e.startsWith(`/`)||e.startsWith(`//`)?`/account`:e}function t(t,n=`/account`){let r=Array.isArray(t)?t[0]:t;return typeof r!=`string`||r.trim()===``?n:e(r.trim())}function n(e){if(typeof e!=`string`)return``;let t=e.trim();return t===``||t.length>254||!t.includes(`@`)?``:t}export{t as n,n as t};
