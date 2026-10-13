@@ -368,7 +368,8 @@
             "commit": "442b64e56",
             "date": "2026-09-28T20:02:43Z",
             "changelog": "Merge pull request #198 from Bottle360/BD-4682-express-pay-review-fixes-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.78",
@@ -539,6 +540,15 @@
             "commit": "720b8c4ec",
             "date": "2026-10-12T21:33:33Z",
             "changelog": "Merge pull request #249 from Bottle360/BD-4929-wallet-billing-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.17-rc.117",
+            "zip": "assets/bottle360bridge-4.5.17-rc.117.zip",
+            "sha256": "dce9b6439d1ec46d29e35d14957bd9dae5081f9230fbe9a1edd52e18944175a8",
+            "commit": "51adc0567",
+            "date": "2026-10-13T05:10:53Z",
+            "changelog": "Merge pull request #257 from Bottle360/BD-4929-doc-marker-staging",
             "state_migration": false
         }
     ]
