@@ -418,7 +418,8 @@
             "commit": "5444156e9",
             "date": "2026-09-29T15:23:17Z",
             "changelog": "Merge pull request #199 from Bottle360/BD-4803-virtual-products-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.83",
@@ -589,6 +590,15 @@
             "commit": "cfa350b19",
             "date": "2026-10-13T05:11:24Z",
             "changelog": "Merge pull request #258 from Bottle360/BD-4929-doc-marker-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.19-dev.120",
+            "zip": "assets/bottle360bridge-4.5.19-dev.120.zip",
+            "sha256": "919f6f1f03c9d1958d546c71ed2ef05a20c7186d136796d33b3093edd3fba766",
+            "commit": "f63d8a0a8",
+            "date": "2026-10-14T00:15:52Z",
+            "changelog": "Merge pull request #261 from Bottle360/BD-4976-apple-pay-studio-development",
             "state_migration": false
         }
     ]
