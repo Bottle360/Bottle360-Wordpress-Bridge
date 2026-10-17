@@ -398,7 +398,8 @@
             "commit": "7a9b99dd4",
             "date": "2026-09-29T15:16:50Z",
             "changelog": "Merge pull request #200 from Bottle360/BD-4803-virtual-products-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.85",
@@ -569,6 +570,15 @@
             "commit": "13fc8dd86",
             "date": "2026-10-16T21:46:14Z",
             "changelog": "Merge pull request #268 from Bottle360/BD-5009-club-card-checkbox-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.17-rc.123",
+            "zip": "assets/bottle360bridge-4.5.17-rc.123.zip",
+            "sha256": "507d18838ffb6294d70d5522b02c2d2f525f2d9abd451d25b00342873cd766b8",
+            "commit": "834aa05bf",
+            "date": "2026-10-17T15:35:02Z",
+            "changelog": "Merge pull request #271 from Bottle360/BD-5014-custom-gift-amount-staging",
             "state_migration": false
         }
     ]
