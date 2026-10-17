@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.19-dev.122",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.19-dev.122.zip",
+    "version": "4.5.20-dev.124",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.20-dev.124.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "e752373b456ff0cfbad8fec16bc1b657773c9a1a39922c45f166bcbb7cd96ba5",
+    "sha256": "531f95cdc8f529414eda8777ac4a307a94a9b16accb8716f230bfd503f1b4f3b",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.19-dev.122\nMerge pull request #267 from Bottle360/BD-5009-club-card-checkbox-development"
+        "changelog": "development 4.5.20-dev.124\nMerge pull request #270 from Bottle360/BD-5014-custom-gift-amount-development"
     },
-    "last_updated": "2026-10-16"
+    "last_updated": "2026-10-17"
 }

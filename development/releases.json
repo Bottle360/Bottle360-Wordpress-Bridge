@@ -438,7 +438,8 @@
             "commit": "9099cc1d1",
             "date": "2026-09-29T22:16:31Z",
             "changelog": "Merge pull request #208 from Bottle360/BD-4849-express-pay-review-first-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.86",
@@ -609,6 +610,15 @@
             "commit": "fa4757eb2",
             "date": "2026-10-16T21:46:20Z",
             "changelog": "Merge pull request #267 from Bottle360/BD-5009-club-card-checkbox-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.20-dev.124",
+            "zip": "assets/bottle360bridge-4.5.20-dev.124.zip",
+            "sha256": "531f95cdc8f529414eda8777ac4a307a94a9b16accb8716f230bfd503f1b4f3b",
+            "commit": "90bcb8f30",
+            "date": "2026-10-17T15:35:28Z",
+            "changelog": "Merge pull request #270 from Bottle360/BD-5014-custom-gift-amount-development",
             "state_migration": false
         }
     ]
