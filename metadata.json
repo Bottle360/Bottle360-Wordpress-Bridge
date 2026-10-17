@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.18",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.18.zip",
+    "version": "4.5.19",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.19.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.18\n- Apple Pay and Google Pay work for pickup orders without typing a billing address first. The address comes from the wallet, and shoppers are charged exactly the total shown on the pay sheet."
+        "changelog": "What's new in 4.5.19\n- Club members adding a new card under Credit Cards can now use it for all their club memberships in one step (the box is ticked for them). Their old card can then be removed."
     },
     "last_updated": "2026-07-29",
-    "sha256": "2ce700232e281716cee7ca016e1b9a451f8a059d7c037f839677da1359b2bf19"
+    "sha256": "9ab0ba113d35bf7b7c56811cbcbc682e2b6419fc26ebb50ce058b1d8f7102b1d"
 }
