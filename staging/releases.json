@@ -408,7 +408,8 @@
             "commit": "00c3d6416",
             "date": "2026-09-29T22:16:59Z",
             "changelog": "Merge pull request #206 from Bottle360/BD-4849-express-pay-review-first-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.87",
@@ -579,6 +580,15 @@
             "commit": "834aa05bf",
             "date": "2026-10-17T15:35:02Z",
             "changelog": "Merge pull request #271 from Bottle360/BD-5014-custom-gift-amount-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.17-rc.125",
+            "zip": "assets/bottle360bridge-4.5.17-rc.125.zip",
+            "sha256": "78919ab8ed3543f660488f23c1db7ab1ad6eaf72c6ac4fcf252019cd3294efd9",
+            "commit": "a623eea78",
+            "date": "2026-10-19T19:12:27Z",
+            "changelog": "Merge pull request #276 from Bottle360/BD-4975-gift-recipient-after-sign-in-staging",
             "state_migration": false
         }
     ]
