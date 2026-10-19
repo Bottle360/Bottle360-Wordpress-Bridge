@@ -448,7 +448,8 @@
             "commit": "87254ab20",
             "date": "2026-10-02T22:16:59Z",
             "changelog": "Merge pull request #209 from Bottle360/BD-4855-review-guest-held-address-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.88",
@@ -619,6 +620,15 @@
             "commit": "90bcb8f30",
             "date": "2026-10-17T15:35:28Z",
             "changelog": "Merge pull request #270 from Bottle360/BD-5014-custom-gift-amount-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.20-dev.126",
+            "zip": "assets/bottle360bridge-4.5.20-dev.126.zip",
+            "sha256": "f05fbc24e4849cf083688753748920f3488de8f6308e935756894f086bb1d569",
+            "commit": "7e44cb31b",
+            "date": "2026-10-19T19:12:20Z",
+            "changelog": "Merge pull request #275 from Bottle360/BD-4975-gift-recipient-after-sign-in-development",
             "state_migration": false
         }
     ]
