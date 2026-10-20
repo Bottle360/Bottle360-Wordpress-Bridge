@@ -418,7 +418,8 @@
             "commit": "3b01b792f",
             "date": "2026-10-02T22:16:56Z",
             "changelog": "Merge pull request #210 from Bottle360/BD-4855-review-guest-held-address-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.89",
@@ -589,6 +590,15 @@
             "commit": "a623eea78",
             "date": "2026-10-19T19:12:27Z",
             "changelog": "Merge pull request #276 from Bottle360/BD-4975-gift-recipient-after-sign-in-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.17-rc.128",
+            "zip": "assets/bottle360bridge-4.5.17-rc.128.zip",
+            "sha256": "192ef012142089b725a158ee3ae36a153f79da9f8a89dbe9a3af25effe7646a8",
+            "commit": "61cc12443",
+            "date": "2026-10-20T17:22:44Z",
+            "changelog": "Merge pull request #279 from Bottle360/BD-5029-storefront-speed-staging",
             "state_migration": false
         }
     ]
