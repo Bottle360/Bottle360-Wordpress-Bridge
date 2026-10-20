@@ -458,7 +458,8 @@
             "commit": "373c29582",
             "date": "2026-10-03T10:08:03Z",
             "changelog": "Merge pull request #212 from Bottle360/BD-4825-known-email-flow-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.90",
@@ -629,6 +630,15 @@
             "commit": "7e44cb31b",
             "date": "2026-10-19T19:12:20Z",
             "changelog": "Merge pull request #275 from Bottle360/BD-4975-gift-recipient-after-sign-in-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.20-dev.127",
+            "zip": "assets/bottle360bridge-4.5.20-dev.127.zip",
+            "sha256": "1fe4f179154f9996087507a3fbc09cab96ed8c7401548507fa77d0ff7e94c46b",
+            "commit": "6c27ad467",
+            "date": "2026-10-20T17:22:24Z",
+            "changelog": "Merge pull request #278 from Bottle360/BD-5029-storefront-speed-development",
             "state_migration": false
         }
     ]
