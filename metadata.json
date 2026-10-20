@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.19",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.19.zip",
+    "version": "4.5.20",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.20.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.19\n- Club members adding a new card under Credit Cards can now use it for all their club memberships in one step (the box is ticked for them). Their old card can then be removed."
+        "changelog": "What's new in 4.5.20\n- Gift cards that let shoppers pick their own amount now show an amount box on the product page. Product cards and buy buttons show \"Choose amount\" and take shoppers there.\n- Gift card orders keep the recipient's details when a shopper signs in during checkout, and can't be placed without them."
     },
     "last_updated": "2026-07-29",
-    "sha256": "9ab0ba113d35bf7b7c56811cbcbc682e2b6419fc26ebb50ce058b1d8f7102b1d"
+    "sha256": "bf1b6f3298e9d03745c4f7c82e5532e3424bcd21b3b3cfae2e011902aaee4c76"
 }
