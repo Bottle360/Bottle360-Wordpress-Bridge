@@ -478,7 +478,8 @@
             "commit": "7b1d663de",
             "date": "2026-10-06T16:11:45Z",
             "changelog": "Merge pull request #219 from Bottle360/BD-4870-teaser-html-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.94",
@@ -649,6 +650,15 @@
             "commit": "4c546fc1c",
             "date": "2026-10-20T21:38:47Z",
             "changelog": "Merge pull request #265 from Bottle360/BD-4909-sqps-google-pay-header-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.21-dev.131",
+            "zip": "assets/bottle360bridge-4.5.21-dev.131.zip",
+            "sha256": "1aaa2596e404d11265ce5e05f1b192ad65b8f39e44d17618af38d18ad266f8a5",
+            "commit": "fd0b3f2c0",
+            "date": "2026-10-20T21:42:35Z",
+            "changelog": "Merge pull request #273 from Bottle360/sqps-apple-pay-popup-development",
             "state_migration": false
         }
     ]
