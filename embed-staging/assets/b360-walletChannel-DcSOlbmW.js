@@ -1,0 +1,1 @@
+var e={googlePay:`google_pay`,applePay:`apple_pay`},t=new Set(Object.keys(e)),n={google_pay:`Google Pay`,apple_pay:`Apple Pay`};function r(t){return typeof t==`string`&&Object.prototype.hasOwnProperty.call(e,t)?e[t]:``}function i(e){return typeof e==`string`&&Object.prototype.hasOwnProperty.call(n,e)}function a(e){return n[e]}export{a as i,i as n,r,t};
