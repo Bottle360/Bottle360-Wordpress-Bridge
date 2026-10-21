@@ -448,7 +448,8 @@
             "commit": "a7e55df1e",
             "date": "2026-10-06T16:13:39Z",
             "changelog": "Merge pull request #217 from Bottle360/BD-4870-teaser-html-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.95",
@@ -619,6 +620,15 @@
             "commit": "e986e6101",
             "date": "2026-10-20T21:44:07Z",
             "changelog": "Merge pull request #274 from Bottle360/sqps-apple-pay-popup-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.17-rc.134",
+            "zip": "assets/bottle360bridge-4.5.17-rc.134.zip",
+            "sha256": "214c4a27d38d24ebf212eced2cd59dca4eef03e72f4411efcf99f34b9fd78d44",
+            "commit": "d6ad26235",
+            "date": "2026-10-21T16:52:55Z",
+            "changelog": "Merge pull request #284 from Bottle360/BD-5037-recaptcha-other-key-staging",
             "state_migration": false
         }
     ]
