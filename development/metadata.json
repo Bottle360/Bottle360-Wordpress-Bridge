@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.21-dev.131",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.21-dev.131.zip",
+    "version": "4.5.21-dev.133",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.21-dev.133.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "1aaa2596e404d11265ce5e05f1b192ad65b8f39e44d17618af38d18ad266f8a5",
+    "sha256": "00c47e2b0da0ffc232d08a64a4208ce0d675522db0769fe8858c6a52a7781552",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.21-dev.131\nMerge pull request #273 from Bottle360/sqps-apple-pay-popup-development"
+        "changelog": "development 4.5.21-dev.133\nMerge pull request #283 from Bottle360/BD-5037-recaptcha-other-key-development"
     },
-    "last_updated": "2026-10-20"
+    "last_updated": "2026-10-21"
 }
