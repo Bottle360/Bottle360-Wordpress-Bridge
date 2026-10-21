@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.20",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.20.zip",
+    "version": "4.5.21",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.21.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.20\n- Gift cards that let shoppers pick their own amount now show an amount box on the product page. Product cards and buy buttons show \"Choose amount\" and take shoppers there.\n- Gift card orders keep the recipient's details when a shopper signs in during checkout, and can't be placed without them."
+        "changelog": "What's new in 4.5.21\n- Customers can sign in to the store again on sites that use their own reCAPTCHA, for example on a newsletter or contact form."
     },
     "last_updated": "2026-07-29",
-    "sha256": "bf1b6f3298e9d03745c4f7c82e5532e3424bcd21b3b3cfae2e011902aaee4c76"
+    "sha256": "7b65847ed4e4241912da5b882c88792a9e3c3b88c6fbfc8c58758fcb82f89894"
 }
