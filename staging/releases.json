@@ -478,7 +478,8 @@
             "commit": "e9ef7dad9",
             "date": "2026-10-07T00:54:25Z",
             "changelog": "Merge pull request #226 from Bottle360/BD-4908-checkout-ux-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.101",
@@ -649,6 +650,15 @@
             "commit": "851d79ff7",
             "date": "2026-10-23T15:52:00Z",
             "changelog": "Merge pull request #282 from Bottle360/BD-5029-storefront-speed-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.22-rc.140",
+            "zip": "assets/bottle360bridge-4.5.22-rc.140.zip",
+            "sha256": "0520f6408caa18b0cccf65a9b87b9e2d0374abb4f23edaf67a1f776099085ff0",
+            "commit": "2def774ec",
+            "date": "2026-10-23T18:59:40Z",
+            "changelog": "Merge pull request #293 from Bottle360/bump-4.5.21-staging",
             "state_migration": false
         }
     ]
