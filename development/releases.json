@@ -528,7 +528,8 @@
             "commit": "5fc447b10",
             "date": "2026-10-08T11:02:40Z",
             "changelog": "Merge pull request #239 from Bottle360/BD-2276-apple-pay-all-browsers-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.104",
@@ -699,6 +700,15 @@
             "commit": "d1a069dd7",
             "date": "2026-10-23T18:59:10Z",
             "changelog": "Merge pull request #292 from Bottle360/bump-4.5.21-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.22-dev.142",
+            "zip": "assets/bottle360bridge-4.5.22-dev.142.zip",
+            "sha256": "30bc1462bb1cf68b09b4d215d6bd3857b4acacc361053c0397c4d2700fa97d76",
+            "commit": "8731b32ca",
+            "date": "2026-10-23T20:16:38Z",
+            "changelog": "Merge pull request #298 from Bottle360/channel-version-review-fixes",
             "state_migration": false
         }
     ]
