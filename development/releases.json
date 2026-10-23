@@ -518,7 +518,8 @@
             "commit": "d89839a91",
             "date": "2026-10-07T20:41:34Z",
             "changelog": "Merge pull request #233 from Bottle360/BD-4908-address-step-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.102",
@@ -689,6 +690,15 @@
             "commit": "0be786b47",
             "date": "2026-10-23T15:52:59Z",
             "changelog": "Merge pull request #281 from Bottle360/BD-5029-storefront-speed-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.22-dev.139",
+            "zip": "assets/bottle360bridge-4.5.22-dev.139.zip",
+            "sha256": "52f5cef759a315dd6fc051c1d07e76fe72ded808e37ff2296be9b81a6c0ae954",
+            "commit": "d1a069dd7",
+            "date": "2026-10-23T18:59:10Z",
+            "changelog": "Merge pull request #292 from Bottle360/bump-4.5.21-development",
             "state_migration": false
         }
     ]
