@@ -488,7 +488,8 @@
             "commit": "d08c9571a",
             "date": "2026-10-07T20:41:52Z",
             "changelog": "Merge pull request #234 from Bottle360/BD-4908-address-step-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.103",
@@ -659,6 +660,15 @@
             "commit": "2def774ec",
             "date": "2026-10-23T18:59:40Z",
             "changelog": "Merge pull request #293 from Bottle360/bump-4.5.21-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.22-rc.141",
+            "zip": "assets/bottle360bridge-4.5.22-rc.141.zip",
+            "sha256": "0e8a4267bb9131790c7b5a4a2e4dfe61b3ad5851d3667cca8379f9d1479ca7e5",
+            "commit": "6de751325",
+            "date": "2026-10-23T19:05:05Z",
+            "changelog": "Merge pull request #290 from Bottle360/channel-version-from-prod-merge-staging",
             "state_migration": false
         }
     ]
