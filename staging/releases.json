@@ -458,7 +458,8 @@
             "commit": "2bdc3ec68",
             "date": "2026-10-06T22:36:53Z",
             "changelog": "Merge pull request #230 from Bottle360/BD-4908-qty-hint-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.97",
@@ -629,6 +630,15 @@
             "commit": "d6ad26235",
             "date": "2026-10-21T16:52:55Z",
             "changelog": "Merge pull request #284 from Bottle360/BD-5037-recaptcha-other-key-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.17-rc.137",
+            "zip": "assets/bottle360bridge-4.5.17-rc.137.zip",
+            "sha256": "67b1a1bee7d99c1c65b0c721fdbba89696b85cbf6d84b48732f1a4fd5f79e08c",
+            "commit": "6377c3989",
+            "date": "2026-10-23T15:48:17Z",
+            "changelog": "Merge pull request #288 from Bottle360/BD-5054-held-billing-save-card-staging",
             "state_migration": false
         }
     ]
