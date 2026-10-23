@@ -498,7 +498,8 @@
             "commit": "d19ba7510",
             "date": "2026-10-06T22:41:01Z",
             "changelog": "Merge pull request #220 from Bottle360/BD-4783-stale-bundle-recovery-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.98",
@@ -669,6 +670,15 @@
             "commit": "2a794438a",
             "date": "2026-10-21T16:52:52Z",
             "changelog": "Merge pull request #283 from Bottle360/BD-5037-recaptcha-other-key-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.22-dev.135",
+            "zip": "assets/bottle360bridge-4.5.22-dev.135.zip",
+            "sha256": "ad0d67c67adf6c648b23eec979154c65c86cc6932b99ad5324dde4f728467318",
+            "commit": "fae400c13",
+            "date": "2026-10-23T15:48:00Z",
+            "changelog": "Merge pull request #287 from Bottle360/BD-5054-held-billing-save-card-development",
             "state_migration": false
         }
     ]
