@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.22-dev.135",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.22-dev.135.zip",
+    "version": "4.5.22-dev.136",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.22-dev.136.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "ad0d67c67adf6c648b23eec979154c65c86cc6932b99ad5324dde4f728467318",
+    "sha256": "fa955d60a18d395ef56d1c48ac54311fa3afa0152613e6e3664a73bef3493242",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.22-dev.135\nMerge pull request #287 from Bottle360/BD-5054-held-billing-save-card-development"
+        "changelog": "development 4.5.22-dev.136\nMerge pull request #281 from Bottle360/BD-5029-storefront-speed-development"
     },
     "last_updated": "2026-10-23"
 }
