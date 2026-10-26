@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.21",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.21.zip",
+    "version": "4.5.22",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.22.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.21\n- Customers can sign in to the store again on sites that use their own reCAPTCHA, for example on a newsletter or contact form."
+        "changelog": "What's new in 4.5.22\n- Customers who are already signed in no longer see the Sign In form again when they come back to it from another page. They go straight to their account.\n- Refreshing the store, or opening a saved link to it, while on page 2 or later of the product list no longer shows a \"Page not found\" error.\n- Signing in partway through checkout no longer gets stuck at \"Save a billing address before saving a card.\" The customer is asked to confirm their billing address and can finish the order.\n- The Styling Studio now shows the Apple Pay button next to Google Pay, so you can see how both will look at checkout."
     },
     "last_updated": "2026-07-29",
-    "sha256": "7b65847ed4e4241912da5b882c88792a9e3c3b88c6fbfc8c58758fcb82f89894"
+    "sha256": "6b30a02be8445114e755405d6a17dabeb9c1303daa28b2f8c95c9e2841bffa68"
 }
