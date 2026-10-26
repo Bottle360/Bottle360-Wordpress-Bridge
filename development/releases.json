@@ -538,7 +538,8 @@
             "commit": "8281498de",
             "date": "2026-10-09T15:40:55Z",
             "changelog": "Merge pull request #245 from Bottle360/BD-4943-order-receipt-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-dev.106",
@@ -709,6 +710,15 @@
             "commit": "8731b32ca",
             "date": "2026-10-23T20:16:38Z",
             "changelog": "Merge pull request #298 from Bottle360/channel-version-review-fixes",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.22-dev.144",
+            "zip": "assets/bottle360bridge-4.5.22-dev.144.zip",
+            "sha256": "4e2836650f61917fff1575037a71ae3febfbf889dc868a5c98be498c94525131",
+            "commit": "2e0ed7e17",
+            "date": "2026-10-26T16:43:33Z",
+            "changelog": "Merge pull request #301 from Bottle360/BD-5063-login-page-member-bounce-development",
             "state_migration": false
         }
     ]
