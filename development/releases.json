@@ -558,7 +558,8 @@
             "commit": "085aa6ebf",
             "date": "2026-10-12T15:30:44Z",
             "changelog": "Merge pull request #242 from Bottle360/BD-4908-inline-form-style-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-dev.110",
@@ -729,6 +730,15 @@
             "commit": "d98dbebf3",
             "date": "2026-10-26T22:34:33Z",
             "changelog": "Merge pull request #305 from Bottle360/BD-5067-store-page-query-404-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.23-dev.148",
+            "zip": "assets/bottle360bridge-4.5.23-dev.148.zip",
+            "sha256": "e5af1f8984dc2aca4804c4f14a8129352b514304e9897680fa1fb961b8bf7e91",
+            "commit": "32cd6e4e1",
+            "date": "2026-10-26T23:22:01Z",
+            "changelog": "Merge pull request #308 from Bottle360/bump-4.5.22-development",
             "state_migration": false
         }
     ]
