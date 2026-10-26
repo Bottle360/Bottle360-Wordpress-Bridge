@@ -528,7 +528,8 @@
             "commit": "d68fc6708",
             "date": "2026-10-12T15:30:37Z",
             "changelog": "Merge pull request #243 from Bottle360/BD-4908-inline-form-style-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.112",
@@ -699,6 +700,15 @@
             "commit": "5fde2d577",
             "date": "2026-10-26T22:34:35Z",
             "changelog": "Merge pull request #306 from Bottle360/BD-5067-store-page-query-404-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.23-rc.149",
+            "zip": "assets/bottle360bridge-4.5.23-rc.149.zip",
+            "sha256": "e96b2b16362ec963277d4e0d86e07dbab9f5dc584f2c7282a35ffd944ffe46f9",
+            "commit": "4d8153533",
+            "date": "2026-10-26T23:22:17Z",
+            "changelog": "Merge pull request #309 from Bottle360/bump-4.5.22-staging",
             "state_migration": false
         }
     ]
