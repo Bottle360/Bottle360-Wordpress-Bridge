@@ -1,0 +1,1 @@
+function e(e){if(!e)return!1;let t=e.querySelector(`.v-input--error input, .v-input--error textarea, .v-input--error [role="combobox"]`);return t?(t.focus(),!0):!1}export{e as t};
