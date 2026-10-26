@@ -518,7 +518,8 @@
             "commit": "f9809f61d",
             "date": "2026-10-12T10:31:41Z",
             "changelog": "Merge pull request #237 from Bottle360/BD-4921-nonce-hardening-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.11-rc.109",
@@ -689,6 +690,15 @@
             "commit": "be264a2c5",
             "date": "2026-10-26T16:43:29Z",
             "changelog": "Merge pull request #302 from Bottle360/BD-5063-login-page-member-bounce-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.22-rc.147",
+            "zip": "assets/bottle360bridge-4.5.22-rc.147.zip",
+            "sha256": "986766e1dbc4139ace96ff088b6649e7c494870c8ff42a5c0968fca250cf52d1",
+            "commit": "5fde2d577",
+            "date": "2026-10-26T22:34:35Z",
+            "changelog": "Merge pull request #306 from Bottle360/BD-5067-store-page-query-404-staging",
             "state_migration": false
         }
     ]
