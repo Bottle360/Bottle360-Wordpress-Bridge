@@ -538,7 +538,8 @@
             "commit": "a1196a742",
             "date": "2026-10-12T17:28:28Z",
             "changelog": "Merge pull request #251 from Bottle360/BD-4965-google-address-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-rc.114",
@@ -709,6 +710,15 @@
             "commit": "4d8153533",
             "date": "2026-10-26T23:22:17Z",
             "changelog": "Merge pull request #309 from Bottle360/bump-4.5.22-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.23-rc.151",
+            "zip": "assets/bottle360bridge-4.5.23-rc.151.zip",
+            "sha256": "c63b25437cfa06497074b5fe6a3c3f76ad82a3ace51baca0cdebdaf6297b94ae",
+            "commit": "f45ae2f87",
+            "date": "2026-10-29T08:08:41Z",
+            "changelog": "Merge pull request #311 from Bottle360/BD-5111-host-auth-signal-staging",
             "state_migration": false
         }
     ]
