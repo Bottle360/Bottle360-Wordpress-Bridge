@@ -588,7 +588,8 @@
             "commit": "7aa8a4db3",
             "date": "2026-10-12T17:42:58Z",
             "changelog": "Merge pull request #255 from Bottle360/channel-version-from-prod-merge-dev",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-dev.116",
@@ -759,6 +760,15 @@
             "commit": "d277c95bb",
             "date": "2026-10-29T18:57:49Z",
             "changelog": "Merge pull request #304 from Bottle360/loyalty-n1-web",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.23-dev.154",
+            "zip": "assets/bottle360bridge-4.5.23-dev.154.zip",
+            "sha256": "8bd0670b5ad5555fe325fe88deb955350c860b0a331c5e258b180cd26e3f4f05",
+            "commit": "68634b8df",
+            "date": "2026-10-29T23:17:38Z",
+            "changelog": "Merge pull request #313 from Bottle360/BD-5122-embed-session-cross-tab-development",
             "state_migration": false
         }
     ]

@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.23-dev.152",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.23-dev.152.zip",
+    "version": "4.5.23-dev.154",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.23-dev.154.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "9a0fa85e92e9e4b35c21f356608135935b2ceba6bae05fd3b5727525c567a3a7",
+    "sha256": "8bd0670b5ad5555fe325fe88deb955350c860b0a331c5e258b180cd26e3f4f05",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.23-dev.152\nMerge pull request #304 from Bottle360/loyalty-n1-web"
+        "changelog": "development 4.5.23-dev.154\nMerge pull request #313 from Bottle360/BD-5122-embed-session-cross-tab-development"
     },
     "last_updated": "2026-10-29"
 }
