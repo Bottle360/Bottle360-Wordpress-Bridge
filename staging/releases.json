@@ -558,7 +558,8 @@
             "commit": "720b8c4ec",
             "date": "2026-10-12T21:33:33Z",
             "changelog": "Merge pull request #249 from Bottle360/BD-4929-wallet-billing-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-rc.117",
@@ -729,6 +730,15 @@
             "commit": "5674c73cd",
             "date": "2026-10-29T18:57:49Z",
             "changelog": "Merge pull request #316 from Bottle360/loyalty-n1-web-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.23-rc.155",
+            "zip": "assets/bottle360bridge-4.5.23-rc.155.zip",
+            "sha256": "6de3c6458357b701cf2f8a86a8291f5b6c0c9f47293f1e7fc302c1257b0a5e60",
+            "commit": "4cca34af1",
+            "date": "2026-10-29T23:17:45Z",
+            "changelog": "Merge pull request #314 from Bottle360/BD-5122-embed-session-cross-tab-staging",
             "state_migration": false
         }
     ]
