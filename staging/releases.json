@@ -548,7 +548,8 @@
             "commit": "e375bb2eb",
             "date": "2026-10-12T17:43:23Z",
             "changelog": "Merge pull request #254 from Bottle360/bump-4.5.16-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-rc.115",
@@ -719,6 +720,15 @@
             "commit": "f45ae2f87",
             "date": "2026-10-29T08:08:41Z",
             "changelog": "Merge pull request #311 from Bottle360/BD-5111-host-auth-signal-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.23-rc.153",
+            "zip": "assets/bottle360bridge-4.5.23-rc.153.zip",
+            "sha256": "70f195d32c9afa2b98efed18bc89593b3d715bd5c79c3f7d722c9b4b5bf7fa36",
+            "commit": "5674c73cd",
+            "date": "2026-10-29T18:57:49Z",
+            "changelog": "Merge pull request #316 from Bottle360/loyalty-n1-web-staging",
             "state_migration": false
         }
     ]
