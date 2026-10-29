@@ -578,7 +578,8 @@
             "commit": "643096747",
             "date": "2026-10-12T17:28:11Z",
             "changelog": "Merge pull request #250 from Bottle360/BD-4965-google-address-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-dev.113",
@@ -749,6 +750,15 @@
             "commit": "5c89566b6",
             "date": "2026-10-29T07:21:11Z",
             "changelog": "Merge pull request #310 from Bottle360/BD-5111-host-auth-signal-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.23-dev.152",
+            "zip": "assets/bottle360bridge-4.5.23-dev.152.zip",
+            "sha256": "9a0fa85e92e9e4b35c21f356608135935b2ceba6bae05fd3b5727525c567a3a7",
+            "commit": "d277c95bb",
+            "date": "2026-10-29T18:57:49Z",
+            "changelog": "Merge pull request #304 from Bottle360/loyalty-n1-web",
             "state_migration": false
         }
     ]
