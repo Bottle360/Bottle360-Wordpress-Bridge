@@ -1,0 +1,1 @@
+function e(e,t){let n=e=>String(e??``).trim().toLowerCase();return t.find(t=>n(t.first_name)===n(e.first_name)&&n(t.last_name)===n(e.last_name)&&n(t.street1)===n(e.street1)&&n(t.street2)===n(e.street2)&&n(t.zip)===n(e.zip))?.address_id??null}export{e as t};

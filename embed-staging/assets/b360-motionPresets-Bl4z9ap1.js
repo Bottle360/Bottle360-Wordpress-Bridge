@@ -1,0 +1,1 @@
+var e=[`skeleton`,`spinner`,`inline-shimmer`],t={calm:{fast:130,base:240,slow:360},standard:{fast:160,base:280,slow:420},lively:{fast:190,base:320,slow:480}};export{e as n,t};

@@ -1,0 +1,1 @@
+import{bt as e,f as t,n}from"./b360-vendor-B-Zrz9eY.js";function r(r,i){let a=n();return{prefersReducedMotion:t(()=>{let t=e(r);return t===`always-on`?!0:t===`always-off`?!1:a.value===`reduce`}),celebrationsEnabled:t(()=>i?.value?getComputedStyle(i.value).getPropertyValue(`--b360-celebrations`).trim()!==`0`:!0)}}export{r as t};
