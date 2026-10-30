@@ -1,0 +1,1 @@
+import{B as e,U as t,g as n}from"./b360-vendor-B-Zrz9eY.js";import{t as r}from"./b360-_plugin-vue_export-helper-ABYkCU9i.js";var i={},a={class:`b360-eyebrow`};function o(r,i){return e(),n(`div`,a,[t(r.$slots,`default`)])}var s=r(i,[[`render`,o]]);export{s as t};

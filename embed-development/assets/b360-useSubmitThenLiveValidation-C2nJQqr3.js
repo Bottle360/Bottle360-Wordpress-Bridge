@@ -1,0 +1,1 @@
+import{f as e,ft as t,tt as n}from"./b360-vendor-B-Zrz9eY.js";function r(r){let i=t(!1),a=e(()=>i.value?`input lazy`:`submit lazy`);if(r){let{password:e,confirm:t,confirmField:a}=r;n(e,()=>{!i.value||!t.value||a.value?.validate?.()})}return{validateOn:a,markAttempted:()=>{i.value=!0},resetAttempted:()=>{i.value=!1}}}export{r as t};

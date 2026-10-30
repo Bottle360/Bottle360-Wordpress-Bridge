@@ -1,0 +1,1 @@
+import{ft as e,mt as t}from"./b360-vendor-B-Zrz9eY.js";var n=e(!1),r=t({message:``}),i=null;function a(){function e(e){return r.value=typeof e==`string`?{message:e}:e,n.value=!0,new Promise(e=>{i=e})}function t(){n.value=!1,i?.(!0),i=null}function a(){n.value=!1,i?.(!1),i=null}return{visible:n,options:r,confirm:e,handleConfirm:t,handleCancel:a}}export{a as t};

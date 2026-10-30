@@ -1,0 +1,1 @@
+import{P as e,ft as t}from"./b360-vendor-B-Zrz9eY.js";function n(n=1200){let r=t(null),i=null;function a(e){i!==null&&clearTimeout(i),r.value=e,i=setTimeout(()=>{r.value=null,i=null},n)}return e(()=>{i!==null&&(clearTimeout(i),i=null)}),{flashId:r,flash:a}}export{n as t};
