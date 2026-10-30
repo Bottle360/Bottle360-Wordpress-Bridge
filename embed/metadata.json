@@ -1,9 +1,9 @@
 {
   "version": "4.5.22",
-  "built": "2026-10-26T23:00:28Z",
-  "commit": "fb5ada0",
+  "built": "2026-10-30T21:51:48Z",
+  "commit": "30f884d",
   "loader": "b360-embed.js",
   "loader_url": "https://bottle360.github.io/Bottle360-Wordpress-Bridge/embed/b360-embed.js",
-  "loader_sha256": "f1ca6d7eadf28943e4c02b4d9271e6682bf5379d39d0adf750f40e430a5f9dd4",
-  "chunk_files": 159
+  "loader_sha256": "3dfaf106d9b05f52cef91a08437748bd466a5dfd6afdcb91212876b5937b0170",
+  "chunk_files": 161
 }

@@ -1,0 +1,1 @@
+function e(e){return Math.max(0,e.subtotal-(e.discount??0)-(e.giftCard??0)-(e.loyalty??0))}function t(t){return Math.abs(e(t)-t.subtotal)>.005}function n(e){let t=Math.max(0,e.subtotal),n=e=>{let n=Math.min(Math.max(0,e??0),t);return t-=n,n};return{discount:n(e.discount),loyalty:n(e.loyalty),giftCard:n(e.giftCard)}}export{n,e as r,t};
