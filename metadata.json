@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.22",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.22.zip",
+    "version": "4.5.23",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.23.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.22\n- Customers who are already signed in no longer see the Sign In form again when they come back to it from another page. They go straight to their account.\n- Refreshing the store, or opening a saved link to it, while on page 2 or later of the product list no longer shows a \"Page not found\" error.\n- Signing in partway through checkout no longer gets stuck at \"Save a billing address before saving a card.\" The customer is asked to confirm their billing address and can finish the order.\n- The Styling Studio now shows the Apple Pay button next to Google Pay, so you can see how both will look at checkout."
+        "changelog": "What's new in 4.5.23\n- Squarespace stores can now offer Google Pay at checkout, and Apple Pay once it is turned on for the store.\n- Checkout and club customization now open full screen above the website's own header, so a sticky header can no longer cover them.\n- On Squarespace stores, a signed-in customer now stays signed in across tabs and after closing the browser, instead of being signed out when a link opens a new tab.\n- On Squarespace stores, a customer whose session has ended now sees the store as a guest right away, instead of looking signed in with an empty address book and saved cards.\n- Winery sites that draw their own Sign In link in the header can now switch it to My Account when a customer is signed in."
     },
     "last_updated": "2026-07-29",
-    "sha256": "6b30a02be8445114e755405d6a17dabeb9c1303daa28b2f8c95c9e2841bffa68"
+    "sha256": "9451977b4581599c6a87213cb8b0c6d2391dc09eeec63c9af3deb6281386a34d"
 }
