@@ -568,7 +568,8 @@
             "commit": "51adc0567",
             "date": "2026-10-13T05:10:53Z",
             "changelog": "Merge pull request #257 from Bottle360/BD-4929-doc-marker-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-rc.119",
@@ -738,6 +739,15 @@
             "sha256": "6de3c6458357b701cf2f8a86a8291f5b6c0c9f47293f1e7fc302c1257b0a5e60",
             "commit": "4cca34af1",
             "date": "2026-10-29T23:17:45Z",
+            "changelog": "Merge pull request #314 from Bottle360/BD-5122-embed-session-cross-tab-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.23-rc.156",
+            "zip": "assets/bottle360bridge-4.5.23-rc.156.zip",
+            "sha256": "cfae2b2c7f7d6aebf0cf6723e1bc97085b90264dbde2a669b8a83697b456b083",
+            "commit": "4cca34af1",
+            "date": "2026-11-02T16:24:04Z",
             "changelog": "Merge pull request #314 from Bottle360/BD-5122-embed-session-cross-tab-staging",
             "state_migration": false
         }
