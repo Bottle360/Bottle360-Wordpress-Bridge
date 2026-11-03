@@ -608,7 +608,8 @@
             "commit": "cfa350b19",
             "date": "2026-10-13T05:11:24Z",
             "changelog": "Merge pull request #258 from Bottle360/BD-4929-doc-marker-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.19-dev.120",
@@ -779,6 +780,15 @@
             "commit": "68634b8df",
             "date": "2026-11-02T16:24:12Z",
             "changelog": "Merge pull request #313 from Bottle360/BD-5122-embed-session-cross-tab-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.24-dev.158",
+            "zip": "assets/bottle360bridge-4.5.24-dev.158.zip",
+            "sha256": "7767eb778ac19bb3ddf2861cf581dfaeea280b3b5ef121503445a452069e0dbc",
+            "commit": "6df472ecf",
+            "date": "2026-11-03T21:44:16Z",
+            "changelog": "Merge pull request #322 from Bottle360/BD-5158-embed-drawer-checkout-no-app-url-development",
             "state_migration": false
         }
     ]
