@@ -618,7 +618,8 @@
             "commit": "f63d8a0a8",
             "date": "2026-10-14T00:15:52Z",
             "changelog": "Merge pull request #261 from Bottle360/BD-4976-apple-pay-studio-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.19-dev.122",
@@ -789,6 +790,15 @@
             "commit": "6df472ecf",
             "date": "2026-11-03T21:44:16Z",
             "changelog": "Merge pull request #322 from Bottle360/BD-5158-embed-drawer-checkout-no-app-url-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.24-dev.160",
+            "zip": "assets/bottle360bridge-4.5.24-dev.160.zip",
+            "sha256": "f5d1a29c20bc1ef921bfd5e130f57f280eea6cc48386d047810abbcf037b3459",
+            "commit": "7585d723f",
+            "date": "2026-11-04T20:03:37Z",
+            "changelog": "Merge pull request #325 from Bottle360/BD-5165-buy-button-signin-qty-development",
             "state_migration": false
         }
     ]

@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.24-dev.158",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.24-dev.158.zip",
+    "version": "4.5.24-dev.160",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.24-dev.160.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "7767eb778ac19bb3ddf2861cf581dfaeea280b3b5ef121503445a452069e0dbc",
+    "sha256": "f5d1a29c20bc1ef921bfd5e130f57f280eea6cc48386d047810abbcf037b3459",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.24-dev.158\nMerge pull request #322 from Bottle360/BD-5158-embed-drawer-checkout-no-app-url-development"
+        "changelog": "development 4.5.24-dev.160\nMerge pull request #325 from Bottle360/BD-5165-buy-button-signin-qty-development"
     },
-    "last_updated": "2026-11-03"
+    "last_updated": "2026-11-04"
 }
