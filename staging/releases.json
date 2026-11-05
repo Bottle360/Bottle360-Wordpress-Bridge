@@ -608,7 +608,8 @@
             "commit": "a623eea78",
             "date": "2026-10-19T19:12:27Z",
             "changelog": "Merge pull request #276 from Bottle360/BD-4975-gift-recipient-after-sign-in-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-rc.128",
@@ -779,6 +780,15 @@
             "commit": "4ef74aa1f",
             "date": "2026-11-05T08:29:50Z",
             "changelog": "Merge pull request #330 from Bottle360/BD-5187-route-scroll-hold-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.24-rc.166",
+            "zip": "assets/bottle360bridge-4.5.24-rc.166.zip",
+            "sha256": "52a7ffc360ff2f2e7dce3a927cd3472ad37372825da00ffb5d81ccb9e01350a5",
+            "commit": "71f7119fc",
+            "date": "2026-11-05T17:48:18Z",
+            "changelog": "Merge pull request #334 from Bottle360/BD-5187-reload-first-paint-staging",
             "state_migration": false
         }
     ]
