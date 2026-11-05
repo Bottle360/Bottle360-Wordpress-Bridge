@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.23",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.23.zip",
+    "version": "4.5.24",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.24.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.23\n- Squarespace stores can now offer Google Pay at checkout, and Apple Pay once it is turned on for the store.\n- Checkout and club customization now open full screen above the website's own header, so a sticky header can no longer cover them.\n- On Squarespace stores, a signed-in customer now stays signed in across tabs and after closing the browser, instead of being signed out when a link opens a new tab.\n- On Squarespace stores, a customer whose session has ended now sees the store as a guest right away, instead of looking signed in with an empty address book and saved cards.\n- Winery sites that draw their own Sign In link in the header can now switch it to My Account when a customer is signed in."
+        "changelog": "What's new in 4.5.24\n- Clicking a wine partway down the store no longer flashes the page content below the store while the wine loads, and the page lands just below a sticky header instead of under it.\n- Refreshing the page, or pressing Back from a wine, returns to the same spot in the store listing.\n- Buy buttons for club and member-only wines now offer \"Sign in to buy\" to visitors who are not signed in, and bring them back to the same page once they are.\n- Buy buttons can show a quantity picker that follows the wine's minimum and maximum purchase amounts. Turn it on per button with qty=\"1\" on the shortcode.\n- A signed-in customer who is not yet eligible for a wine can be sent to your club page from the button, using the new join link setting.\n- On Squarespace stores, Checkout from the cart drawer now works from pages outside the store, and tells the shopper where to go when the store page is not set up."
     },
     "last_updated": "2026-07-29",
-    "sha256": "9451977b4581599c6a87213cb8b0c6d2391dc09eeec63c9af3deb6281386a34d"
+    "sha256": "77d66b814abad634139b7355b994b7875a5aba6383640ea37bad437b042a234b"
 }
