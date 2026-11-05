@@ -628,7 +628,8 @@
             "commit": "fa4757eb2",
             "date": "2026-10-16T21:46:20Z",
             "changelog": "Merge pull request #267 from Bottle360/BD-5009-club-card-checkbox-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.20-dev.124",
@@ -799,6 +800,15 @@
             "commit": "7585d723f",
             "date": "2026-11-04T20:03:37Z",
             "changelog": "Merge pull request #325 from Bottle360/BD-5165-buy-button-signin-qty-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.24-dev.162",
+            "zip": "assets/bottle360bridge-4.5.24-dev.162.zip",
+            "sha256": "a6209890a695e07112be273c1f75f48bf790e4ce471d3c5dfac7d6582ad8af3c",
+            "commit": "0bc83c414",
+            "date": "2026-11-05T07:44:28Z",
+            "changelog": "Merge pull request #328 from Bottle360/BD-5030-apple-pay-iframe-ios-development",
             "state_migration": false
         }
     ]

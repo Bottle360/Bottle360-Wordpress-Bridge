@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.24-dev.160",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.24-dev.160.zip",
+    "version": "4.5.24-dev.162",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.24-dev.162.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "f5d1a29c20bc1ef921bfd5e130f57f280eea6cc48386d047810abbcf037b3459",
+    "sha256": "a6209890a695e07112be273c1f75f48bf790e4ce471d3c5dfac7d6582ad8af3c",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.24-dev.160\nMerge pull request #325 from Bottle360/BD-5165-buy-button-signin-qty-development"
+        "changelog": "development 4.5.24-dev.162\nMerge pull request #328 from Bottle360/BD-5030-apple-pay-iframe-ios-development"
     },
-    "last_updated": "2026-11-04"
+    "last_updated": "2026-11-05"
 }
