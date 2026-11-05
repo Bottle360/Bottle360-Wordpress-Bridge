@@ -598,7 +598,8 @@
             "commit": "834aa05bf",
             "date": "2026-10-17T15:35:02Z",
             "changelog": "Merge pull request #271 from Bottle360/BD-5014-custom-gift-amount-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-rc.125",
@@ -769,6 +770,15 @@
             "commit": "61db79a72",
             "date": "2026-11-04T20:03:46Z",
             "changelog": "Merge pull request #326 from Bottle360/BD-5165-buy-button-signin-qty-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.24-rc.163",
+            "zip": "assets/bottle360bridge-4.5.24-rc.163.zip",
+            "sha256": "5855b2c07f3b96ca45bb2f9b9d23b7c0934831562a6396e6b42ea212dbc8fe08",
+            "commit": "4ef74aa1f",
+            "date": "2026-11-05T08:29:50Z",
+            "changelog": "Merge pull request #330 from Bottle360/BD-5187-route-scroll-hold-staging",
             "state_migration": false
         }
     ]
