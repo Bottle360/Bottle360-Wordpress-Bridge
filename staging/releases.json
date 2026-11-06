@@ -638,7 +638,8 @@
             "commit": "e986e6101",
             "date": "2026-10-20T21:44:07Z",
             "changelog": "Merge pull request #274 from Bottle360/sqps-apple-pay-popup-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-rc.134",
@@ -809,6 +810,15 @@
             "commit": "21a4624ac",
             "date": "2026-11-06T18:32:48Z",
             "changelog": "Merge pull request #342 from Bottle360/BD-5206-saved-card-update-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.25-rc.172",
+            "zip": "assets/bottle360bridge-4.5.25-rc.172.zip",
+            "sha256": "a86aa5ed689c2e759a583e2d2bb94772750f6d64d22ce90513c2c1e802914dfd",
+            "commit": "1a602a300",
+            "date": "2026-11-06T23:56:07Z",
+            "changelog": "Merge pull request #345 from Bottle360/BD-5206-update-card-use-for-clubs-staging",
             "state_migration": false
         }
     ]

@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.25-rc.170",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.25-rc.170.zip",
+    "version": "4.5.25-rc.172",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.25-rc.172.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "c074ce0b0d47d88faa48bb65b9b9a0efebf58e6c920e4d192536ba6368b1a6f6",
+    "sha256": "a86aa5ed689c2e759a583e2d2bb94772750f6d64d22ce90513c2c1e802914dfd",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (staging channel)",
-        "changelog": "staging 4.5.25-rc.170\nMerge pull request #342 from Bottle360/BD-5206-saved-card-update-staging"
+        "changelog": "staging 4.5.25-rc.172\nMerge pull request #345 from Bottle360/BD-5206-update-card-use-for-clubs-staging"
     },
     "last_updated": "2026-11-06"
 }
