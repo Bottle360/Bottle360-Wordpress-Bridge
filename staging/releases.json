@@ -658,7 +658,8 @@
             "commit": "6377c3989",
             "date": "2026-10-23T15:48:17Z",
             "changelog": "Merge pull request #288 from Bottle360/BD-5054-held-billing-save-card-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-rc.138",
@@ -829,6 +830,15 @@
             "commit": "d0d315873",
             "date": "2026-11-09T16:29:12Z",
             "changelog": "Merge pull request #351 from Bottle360/pourup-book-widget-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.26-rc.176",
+            "zip": "assets/bottle360bridge-4.5.26-rc.176.zip",
+            "sha256": "296b0b3f77837f08426333cbdd2fb4a761dded1003444391cccc3d63a2896b00",
+            "commit": "9f3d41736",
+            "date": "2026-11-09T17:42:22Z",
+            "changelog": "Merge pull request #356 from Bottle360/bump-4.5.25-staging",
             "state_migration": false
         }
     ]
