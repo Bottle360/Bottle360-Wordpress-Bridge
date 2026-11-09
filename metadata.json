@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.24",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.24.zip",
+    "version": "4.5.25",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.25.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.24\n- Clicking a wine partway down the store no longer flashes the page content below the store while the wine loads, and the page lands just below a sticky header instead of under it.\n- Refreshing the page, or pressing Back from a wine, returns to the same spot in the store listing.\n- Buy buttons for club and member-only wines now offer \"Sign in to buy\" to visitors who are not signed in, and bring them back to the same page once they are.\n- Buy buttons can show a quantity picker that follows the wine's minimum and maximum purchase amounts. Turn it on per button with qty=\"1\" on the shortcode.\n- A signed-in customer who is not yet eligible for a wine can be sent to your club page from the button, using the new join link setting.\n- On Squarespace stores, Checkout from the cart drawer now works from pages outside the store, and tells the shopper where to go when the store page is not set up."
+        "changelog": "What's new in 4.5.25\n- My Cards has an Update button: a member can give a saved card its new expiry date, or swap in a replacement card, and the saved entry is updated in place rather than added again.\n- The Update dialog can also move the member's club memberships onto the updated card, when that card is not already the one billing every membership.\n- Re-adding a card that is already saved now refreshes the saved entry with the new details instead of answering that the card is already saved, and the club memberships billed to the old entry follow it."
     },
     "last_updated": "2026-07-29",
-    "sha256": "77d66b814abad634139b7355b994b7875a5aba6383640ea37bad437b042a234b"
+    "sha256": "b8ff694f3e07f51ca0428c317f071e88bb1fbc044298cb9e49fb6b637d4838fa"
 }
