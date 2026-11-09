@@ -648,7 +648,8 @@
             "commit": "d6ad26235",
             "date": "2026-10-21T16:52:55Z",
             "changelog": "Merge pull request #284 from Bottle360/BD-5037-recaptcha-other-key-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.17-rc.137",
@@ -819,6 +820,15 @@
             "commit": "1a602a300",
             "date": "2026-11-06T23:56:07Z",
             "changelog": "Merge pull request #345 from Bottle360/BD-5206-update-card-use-for-clubs-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.25-rc.174",
+            "zip": "assets/bottle360bridge-4.5.25-rc.174.zip",
+            "sha256": "1b3cdd2f24e1664729249c88f4c13913465246da2ee1d627db7faab69ba160dd",
+            "commit": "d0d315873",
+            "date": "2026-11-09T16:29:12Z",
+            "changelog": "Merge pull request #351 from Bottle360/pourup-book-widget-staging",
             "state_migration": false
         }
     ]

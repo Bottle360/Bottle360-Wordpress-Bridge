@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.25-rc.172",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.25-rc.172.zip",
+    "version": "4.5.25-rc.174",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/staging/assets/bottle360bridge-4.5.25-rc.174.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "a86aa5ed689c2e759a583e2d2bb94772750f6d64d22ce90513c2c1e802914dfd",
+    "sha256": "1b3cdd2f24e1664729249c88f4c13913465246da2ee1d627db7faab69ba160dd",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (staging channel)",
-        "changelog": "staging 4.5.25-rc.172\nMerge pull request #345 from Bottle360/BD-5206-update-card-use-for-clubs-staging"
+        "changelog": "staging 4.5.25-rc.174\nMerge pull request #351 from Bottle360/pourup-book-widget-staging"
     },
-    "last_updated": "2026-11-06"
+    "last_updated": "2026-11-09"
 }
