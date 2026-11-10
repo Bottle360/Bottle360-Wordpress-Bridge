@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.25",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.25.zip",
+    "version": "4.5.26",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.26.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.25\n- My Cards has an Update button: a member can give a saved card its new expiry date, or swap in a replacement card, and the saved entry is updated in place rather than added again.\n- The Update dialog can also move the member's club memberships onto the updated card, when that card is not already the one billing every membership.\n- Re-adding a card that is already saved now refreshes the saved entry with the new details instead of answering that the card is already saved, and the club memberships billed to the old entry follow it."
+        "changelog": "What's new in 4.5.26\n- A wine can send shoppers to the winery's own page for it. Set a \"Product page link\" on the wine or on a vintage in Bottle360 admin, and store cards, the cart drawer and the wine's old store address all go there. Wines without a link are unchanged.\n- Every store page now gives search engines its own address and title instead of the store's front page, product details load sooner, and the store no longer loads some stylesheets twice."
     },
     "last_updated": "2026-07-29",
-    "sha256": "b8ff694f3e07f51ca0428c317f071e88bb1fbc044298cb9e49fb6b637d4838fa"
+    "sha256": "83ed4635127ddc21cdb2d1e63bb1517391e3efc0f53ad2daa2c5c64ac7f08d0a"
 }
