@@ -718,7 +718,8 @@
             "commit": "d1a069dd7",
             "date": "2026-10-23T18:59:10Z",
             "changelog": "Merge pull request #292 from Bottle360/bump-4.5.21-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.22-dev.142",
@@ -889,6 +890,15 @@
             "commit": "ba84ed6dc",
             "date": "2026-11-10T04:51:11Z",
             "changelog": "Merge pull request #338 from Bottle360/release-retry-identity-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.26-dev.179",
+            "zip": "assets/bottle360bridge-4.5.26-dev.179.zip",
+            "sha256": "5048c2f265a2524e46ddc0627d534416b1ba62b001cc3d30a5490d7ff72588f8",
+            "commit": "4e37e6b42",
+            "date": "2026-11-10T18:17:30Z",
+            "changelog": "Merge pull request #357 from Bottle360/BD-5228-page-url-development",
             "state_migration": false
         }
     ]
