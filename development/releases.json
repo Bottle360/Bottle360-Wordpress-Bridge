@@ -708,7 +708,8 @@
             "commit": "0be786b47",
             "date": "2026-10-23T15:52:59Z",
             "changelog": "Merge pull request #281 from Bottle360/BD-5029-storefront-speed-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.22-dev.139",
@@ -879,6 +880,15 @@
             "commit": "7839d0a49",
             "date": "2026-11-09T17:41:38Z",
             "changelog": "Merge pull request #355 from Bottle360/bump-4.5.25-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.26-dev.178",
+            "zip": "assets/bottle360bridge-4.5.26-dev.178.zip",
+            "sha256": "d2edba441937f71273006cc5435a7f27ff46afb95af991f704f981f2298f526b",
+            "commit": "ba84ed6dc",
+            "date": "2026-11-10T04:51:11Z",
+            "changelog": "Merge pull request #338 from Bottle360/release-retry-identity-development",
             "state_migration": false
         }
     ]
