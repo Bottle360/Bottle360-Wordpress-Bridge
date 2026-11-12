@@ -688,7 +688,8 @@
             "commit": "6de751325",
             "date": "2026-10-23T19:05:05Z",
             "changelog": "Merge pull request #290 from Bottle360/channel-version-from-prod-merge-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.22-rc.143",
@@ -859,6 +860,15 @@
             "commit": "d8f11daae",
             "date": "2026-11-10T18:28:40Z",
             "changelog": "Merge pull request #358 from Bottle360/BD-5228-page-link-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.27-rc.182",
+            "zip": "assets/bottle360bridge-4.5.27-rc.182.zip",
+            "sha256": "762a618376adf5d08543f0c6c535a77456f9e8771a8804f0a07ae031ab2609bd",
+            "commit": "58be4b57e",
+            "date": "2026-11-12T05:25:50Z",
+            "changelog": "Merge pull request #363 from Bottle360/bump-4.5.26-staging",
             "state_migration": false
         }
     ]
