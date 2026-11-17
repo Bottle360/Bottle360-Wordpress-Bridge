@@ -758,7 +758,8 @@
             "commit": "32cd6e4e1",
             "date": "2026-10-26T23:22:01Z",
             "changelog": "Merge pull request #308 from Bottle360/bump-4.5.22-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.23-dev.150",
@@ -929,6 +930,15 @@
             "commit": "cf1ecfabe",
             "date": "2026-11-17T18:58:24Z",
             "changelog": "Merge pull request #373 from Bottle360/BD-5044-shipping-discount-visibility-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.27-dev.187",
+            "zip": "assets/bottle360bridge-4.5.27-dev.187.zip",
+            "sha256": "cd38db5e07f4c74d72da84ef8f2889a0d7742f62c969c3a6cc7d544966fe9ad3",
+            "commit": "188eb882c",
+            "date": "2026-11-17T21:28:28Z",
+            "changelog": "Merge pull request #367 from Bottle360/BD-5253-signin-code-development",
             "state_migration": false
         }
     ]

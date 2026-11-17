@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.27-dev.185",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.27-dev.185.zip",
+    "version": "4.5.27-dev.187",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.27-dev.187.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "fef30b8dc0d719f62bc155a49980d20f423f66573149ee9af7b535224cf0ad84",
+    "sha256": "cd38db5e07f4c74d72da84ef8f2889a0d7742f62c969c3a6cc7d544966fe9ad3",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.27-dev.185\nMerge pull request #373 from Bottle360/BD-5044-shipping-discount-visibility-development"
+        "changelog": "development 4.5.27-dev.187\nMerge pull request #367 from Bottle360/BD-5253-signin-code-development"
     },
     "last_updated": "2026-11-17"
 }
