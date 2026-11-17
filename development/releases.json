@@ -748,7 +748,8 @@
             "commit": "d98dbebf3",
             "date": "2026-10-26T22:34:33Z",
             "changelog": "Merge pull request #305 from Bottle360/BD-5067-store-page-query-404-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.23-dev.148",
@@ -919,6 +920,15 @@
             "commit": "73b02e888",
             "date": "2026-11-15T11:04:30Z",
             "changelog": "Merge pull request #364 from Bottle360/BD-5261-product-seo-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.27-dev.185",
+            "zip": "assets/bottle360bridge-4.5.27-dev.185.zip",
+            "sha256": "fef30b8dc0d719f62bc155a49980d20f423f66573149ee9af7b535224cf0ad84",
+            "commit": "cf1ecfabe",
+            "date": "2026-11-17T18:58:24Z",
+            "changelog": "Merge pull request #373 from Bottle360/BD-5044-shipping-discount-visibility-development",
             "state_migration": false
         }
     ]
