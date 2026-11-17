@@ -718,7 +718,8 @@
             "commit": "5fde2d577",
             "date": "2026-10-26T22:34:35Z",
             "changelog": "Merge pull request #306 from Bottle360/BD-5067-store-page-query-404-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.23-rc.149",
@@ -889,6 +890,15 @@
             "commit": "f5d978d40",
             "date": "2026-11-17T18:58:17Z",
             "changelog": "Merge pull request #374 from Bottle360/BD-5044-shipping-discount-visibility-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.27-rc.188",
+            "zip": "assets/bottle360bridge-4.5.27-rc.188.zip",
+            "sha256": "cd05571a707392acb5e7e301eb7a5092a84720ec658829f9cf7db0be0c109755",
+            "commit": "4505f7aba",
+            "date": "2026-11-17T21:28:39Z",
+            "changelog": "Merge pull request #368 from Bottle360/BD-5253-signin-code-staging",
             "state_migration": false
         }
     ]
