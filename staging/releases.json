@@ -708,7 +708,8 @@
             "commit": "be264a2c5",
             "date": "2026-10-26T16:43:29Z",
             "changelog": "Merge pull request #302 from Bottle360/BD-5063-login-page-member-bounce-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.22-rc.147",
@@ -879,6 +880,15 @@
             "commit": "a365cb2c5",
             "date": "2026-11-15T11:04:50Z",
             "changelog": "Merge pull request #365 from Bottle360/BD-5261-product-seo-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.27-rc.186",
+            "zip": "assets/bottle360bridge-4.5.27-rc.186.zip",
+            "sha256": "2ecd31bbea469568d052016bf0f489ffbebf1658310d55ceed5887a518f7f3d7",
+            "commit": "f5d978d40",
+            "date": "2026-11-17T18:58:17Z",
+            "changelog": "Merge pull request #374 from Bottle360/BD-5044-shipping-discount-visibility-staging",
             "state_migration": false
         }
     ]
