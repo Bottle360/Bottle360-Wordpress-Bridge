@@ -728,7 +728,8 @@
             "commit": "4d8153533",
             "date": "2026-10-26T23:22:17Z",
             "changelog": "Merge pull request #309 from Bottle360/bump-4.5.22-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.23-rc.151",
@@ -899,6 +900,15 @@
             "commit": "4505f7aba",
             "date": "2026-11-17T21:28:39Z",
             "changelog": "Merge pull request #368 from Bottle360/BD-5253-signin-code-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.27-rc.190",
+            "zip": "assets/bottle360bridge-4.5.27-rc.190.zip",
+            "sha256": "c4cc2c7920750074b7c4689bc5a66f0dcbf102cc3743a422d73e6758eeec8ec6",
+            "commit": "2e631c51f",
+            "date": "2026-11-17T21:33:46Z",
+            "changelog": "Merge pull request #371 from Bottle360/BD-5289-shipment-pass-staging",
             "state_migration": false
         }
     ]
