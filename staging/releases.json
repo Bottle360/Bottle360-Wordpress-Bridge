@@ -738,7 +738,8 @@
             "commit": "f45ae2f87",
             "date": "2026-10-29T08:08:41Z",
             "changelog": "Merge pull request #311 from Bottle360/BD-5111-host-auth-signal-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.23-rc.153",
@@ -909,6 +910,15 @@
             "commit": "2e631c51f",
             "date": "2026-11-17T21:33:46Z",
             "changelog": "Merge pull request #371 from Bottle360/BD-5289-shipment-pass-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.27-rc.192",
+            "zip": "assets/bottle360bridge-4.5.27-rc.192.zip",
+            "sha256": "d6409975bcd1450008e9c96f7915ed3d01aabff69b30d39e9e5b652f96e6096d",
+            "commit": "c871c4e6e",
+            "date": "2026-11-19T15:31:21Z",
+            "changelog": "Merge pull request #380 from Bottle360/BD-4626-club-customize-submit-staging",
             "state_migration": false
         }
     ]
