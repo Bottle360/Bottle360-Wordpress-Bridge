@@ -778,7 +778,8 @@
             "commit": "d277c95bb",
             "date": "2026-10-29T18:57:49Z",
             "changelog": "Merge pull request #304 from Bottle360/loyalty-n1-web",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.23-dev.154",
@@ -949,6 +950,15 @@
             "commit": "c0cdd0a38",
             "date": "2026-11-17T21:32:12Z",
             "changelog": "Merge pull request #370 from Bottle360/BD-5289-shipment-pass-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.27-dev.191",
+            "zip": "assets/bottle360bridge-4.5.27-dev.191.zip",
+            "sha256": "92d6292f6ce810a86fe249e2aa671d2bb969d1ed97eb7831b2809cb07a388590",
+            "commit": "b975e4f27",
+            "date": "2026-11-19T15:31:03Z",
+            "changelog": "Merge pull request #379 from Bottle360/BD-4626-club-customize-submit-development",
             "state_migration": false
         }
     ]
