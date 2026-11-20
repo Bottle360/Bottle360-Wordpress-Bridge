@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.26",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.26.zip",
+    "version": "4.5.27",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.27.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.26\n- A wine can send shoppers to the winery's own page for it. Set a \"Product page link\" on the wine or on a vintage in Bottle360 admin, and store cards, the cart drawer and the wine's old store address all go there. Wines without a link are unchanged.\n- Every store page now gives search engines its own address and title instead of the store's front page, product details load sooner, and the store no longer loads some stylesheets twice."
+        "changelog": "What's new in 4.5.27\n- Shipping discounts now show at checkout where shoppers pick shipping. The chosen method shows the original price struck through next to the new price (for example $25.00 struck through, then Free), with the discount's name, and Review and the order summary show the same price.\n- Discounts look the same in the cart and at checkout: the original price struck through in red, the price the shopper pays in black.\n- Search engines can now find every wine in the store. The plugin adds a product sitemap (it works with Yoast, Rank Math and WordPress's own sitemap), and each wine page tells search engines its price and whether it is in stock.\n- Members can sign in with an emailed code instead of a password, once the winery turns on the sign-in code email. The member enters their email address and gets one email with a 6-digit code and a sign-in link; either one signs them in. Until the winery turns that email on, sign-in works exactly as it does today.\n- Club members can open their upcoming shipment straight from the club customization email, without signing in, when the winery adds the shipment link to that email. The link opens only that shipment and works until the shipment is processed. From it the member can change wines, quantities, the note and the ship date. To change delivery, address or payment, or to go past 24 bottles, the store first emails them a code to confirm it is them."
     },
     "last_updated": "2026-07-29",
-    "sha256": "83ed4635127ddc21cdb2d1e63bb1517391e3efc0f53ad2daa2c5c64ac7f08d0a"
+    "sha256": "3cf045183ffd0ee8647f8b25e65c50e671381ffda3727eeee59e77634a5bb6de"
 }
