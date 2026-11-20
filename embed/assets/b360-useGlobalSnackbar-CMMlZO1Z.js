@@ -1,0 +1,1 @@
+import{dt as e,pt as t}from"./b360-vendor-CgQmqzJu.js";var n=e(!1),r=e(``),i=t(void 0),a=e(4e3);function o(){function e(e,t={}){r.value=e,i.value=t.color,a.value=t.timeout??4e3,n.value=!1,Promise.resolve().then(()=>{n.value=!0})}return{show:n,text:r,color:i,timeout:a,notify:e}}export{o as t};
