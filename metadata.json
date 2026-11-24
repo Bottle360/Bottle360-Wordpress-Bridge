@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.27",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.27.zip",
+    "version": "4.5.28",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.28.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.27\n- Shipping discounts now show at checkout where shoppers pick shipping. The chosen method shows the original price struck through next to the new price (for example $25.00 struck through, then Free), with the discount's name, and Review and the order summary show the same price.\n- Discounts look the same in the cart and at checkout: the original price struck through in red, the price the shopper pays in black.\n- Search engines can now find every wine in the store. The plugin adds a product sitemap (it works with Yoast, Rank Math and WordPress's own sitemap), and each wine page tells search engines its price and whether it is in stock.\n- Members can sign in with an emailed code instead of a password, once the winery turns on the sign-in code email. The member enters their email address and gets one email with a 6-digit code and a sign-in link; either one signs them in. Until the winery turns that email on, sign-in works exactly as it does today.\n- Club members can open their upcoming shipment straight from the club customization email, without signing in, when the winery adds the shipment link to that email. The link opens only that shipment and works until the shipment is processed. From it the member can change wines, quantities, the note and the ship date. To change delivery, address or payment, or to go past 24 bottles, the store first emails them a code to confirm it is them."
+        "changelog": "What's new in 4.5.28\n- Club members customizing a shipment now save everything with one Submit. Wine changes stay on the page until they press Submit, the page shows when there are unsaved changes, and it warns them before they leave without saving.\n- The estimated total on the club customization page now updates as the member changes wines or switches between pickup and delivery, so they see the right total, shipping included, before they save.\n- Sign in, reset password and create account are now three simple screens with links between them, in place of the three tabs. Passwords can be shown while typing, and creating an account takes fewer fields.\n- When someone tries to create an account with an email that already has one, the page now brings the \"You already have an account\" message into view, with links to sign in or reset the password."
     },
     "last_updated": "2026-07-29",
-    "sha256": "3cf045183ffd0ee8647f8b25e65c50e671381ffda3727eeee59e77634a5bb6de"
+    "sha256": "fb11843f9f477188f677af6571fc10f47fde52e3aa4cfc0234e827f6bb2ecacb"
 }
