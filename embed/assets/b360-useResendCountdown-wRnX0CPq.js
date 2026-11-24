@@ -1,0 +1,1 @@
+import{N as e,S as t,dt as n}from"./b360-vendor-CgQmqzJu.js";function r(r){let i=n(0),a=null;function o(){a!==null&&(clearInterval(a),a=null)}function s(){i.value=r(),i.value===0&&o()}function c(){o(),s(),i.value>0&&(a=setInterval(s,1e3))}return t()&&e(o),{seconds:i,start:c,stop:o}}export{r as t};
