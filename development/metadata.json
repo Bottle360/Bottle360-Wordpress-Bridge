@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.29-dev.197",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.29-dev.197.zip",
+    "version": "4.5.29-dev.199",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/development/assets/bottle360bridge-4.5.29-dev.199.zip",
     "requires": "6.3",
     "requires_php": "7.4",
     "tested": "6.7",
-    "sha256": "6f34e602b66c1be5ce1d9eac37f94561286af1b0bd890b54e22d5db4a9bbaff5",
+    "sha256": "6b5220222786e10b76aa0d16b66a4f343b9e00f64151ff8421012aa9b3a23a31",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs. (development channel)",
-        "changelog": "development 4.5.29-dev.197\nMerge pull request #389 from Bottle360/bump-4.5.28-development"
+        "changelog": "development 4.5.29-dev.199\nMerge pull request #393 from Bottle360/BD-4626-free-shipping-estimate-development"
     },
     "last_updated": "2026-11-24"
 }

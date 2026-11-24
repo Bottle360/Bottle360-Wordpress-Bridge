@@ -818,7 +818,8 @@
             "commit": "7585d723f",
             "date": "2026-11-04T20:03:37Z",
             "changelog": "Merge pull request #325 from Bottle360/BD-5165-buy-button-signin-qty-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.24-dev.162",
@@ -989,6 +990,15 @@
             "commit": "b7d9b2129",
             "date": "2026-11-24T18:16:14Z",
             "changelog": "Merge pull request #389 from Bottle360/bump-4.5.28-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.29-dev.199",
+            "zip": "assets/bottle360bridge-4.5.29-dev.199.zip",
+            "sha256": "6b5220222786e10b76aa0d16b66a4f343b9e00f64151ff8421012aa9b3a23a31",
+            "commit": "5d37c0c32",
+            "date": "2026-11-24T18:20:24Z",
+            "changelog": "Merge pull request #393 from Bottle360/BD-4626-free-shipping-estimate-development",
             "state_migration": false
         }
     ]
