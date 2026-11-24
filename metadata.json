@@ -1,15 +1,15 @@
 {
     "name": "Bottle360 Bridge",
     "slug": "bottle360bridge",
-    "version": "4.5.28",
-    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.28.zip",
+    "version": "4.5.29",
+    "download_url": "https://Bottle360.github.io/Bottle360-Wordpress-Bridge/assets/bottle360bridge-4.5.29.zip",
     "requires": "5.2",
     "requires_php": "7.4",
     "tested": "6.7",
     "sections": {
         "description": "Integration between WordPress and Bottle360 e-commerce APIs.",
-        "changelog": "What's new in 4.5.28\n- Club members customizing a shipment now save everything with one Submit. Wine changes stay on the page until they press Submit, the page shows when there are unsaved changes, and it warns them before they leave without saving.\n- The estimated total on the club customization page now updates as the member changes wines or switches between pickup and delivery, so they see the right total, shipping included, before they save.\n- Sign in, reset password and create account are now three simple screens with links between them, in place of the three tabs. Passwords can be shown while typing, and creating an account takes fewer fields.\n- When someone tries to create an account with an email that already has one, the page now brings the \"You already have an account\" message into view, with links to sign in or reset the password."
+        "changelog": "What's new in 4.5.29\n- On the club customization page, a shipment that qualifies for free shipping now shows Shipping as Free. Before, that line showed the shipping method's name with no amount. The total was already correct."
     },
     "last_updated": "2026-07-29",
-    "sha256": "fb11843f9f477188f677af6571fc10f47fde52e3aa4cfc0234e827f6bb2ecacb"
+    "sha256": "570e044e4b98a48d5551fad7ea985eb0274173bb3cb88564412c5c9361fabb9b"
 }
