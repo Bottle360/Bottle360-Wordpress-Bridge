@@ -798,7 +798,8 @@
             "commit": "68634b8df",
             "date": "2026-11-02T16:24:12Z",
             "changelog": "Merge pull request #313 from Bottle360/BD-5122-embed-session-cross-tab-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.24-dev.158",
@@ -969,6 +970,15 @@
             "commit": "6a1be53a6",
             "date": "2026-11-20T14:19:31Z",
             "changelog": "Merge pull request #382 from Bottle360/BD-5315-auth-standard-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.28-dev.195",
+            "zip": "assets/bottle360bridge-4.5.28-dev.195.zip",
+            "sha256": "76f90651d5b1343977b3b944e2f6593d4da1ef395ecf3687b6384a98a3686dc4",
+            "commit": "3d8445998",
+            "date": "2026-11-24T16:56:57Z",
+            "changelog": "Merge pull request #386 from Bottle360/BD-4825-exists-notice-development",
             "state_migration": false
         }
     ]
