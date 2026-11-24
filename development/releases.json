@@ -808,7 +808,8 @@
             "commit": "6df472ecf",
             "date": "2026-11-03T21:44:16Z",
             "changelog": "Merge pull request #322 from Bottle360/BD-5158-embed-drawer-checkout-no-app-url-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.24-dev.160",
@@ -979,6 +980,15 @@
             "commit": "3d8445998",
             "date": "2026-11-24T16:56:57Z",
             "changelog": "Merge pull request #386 from Bottle360/BD-4825-exists-notice-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.29-dev.197",
+            "zip": "assets/bottle360bridge-4.5.29-dev.197.zip",
+            "sha256": "6f34e602b66c1be5ce1d9eac37f94561286af1b0bd890b54e22d5db4a9bbaff5",
+            "commit": "b7d9b2129",
+            "date": "2026-11-24T18:16:14Z",
+            "changelog": "Merge pull request #389 from Bottle360/bump-4.5.28-development",
             "state_migration": false
         }
     ]
