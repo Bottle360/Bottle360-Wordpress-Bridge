@@ -768,7 +768,8 @@
             "commit": "4cca34af1",
             "date": "2026-11-02T16:24:04Z",
             "changelog": "Merge pull request #314 from Bottle360/BD-5122-embed-session-cross-tab-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.24-rc.159",
@@ -939,6 +940,15 @@
             "commit": "7ba937d4b",
             "date": "2026-11-24T16:57:16Z",
             "changelog": "Merge pull request #385 from Bottle360/BD-4825-exists-notice-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.29-rc.198",
+            "zip": "assets/bottle360bridge-4.5.29-rc.198.zip",
+            "sha256": "c2cec1071cd9c41f3e358a8fc82801bca637b28f546f8e47be8420c60b415476",
+            "commit": "fef17e0b1",
+            "date": "2026-11-24T18:16:40Z",
+            "changelog": "Merge pull request #390 from Bottle360/bump-4.5.28-staging",
             "state_migration": false
         }
     ]
