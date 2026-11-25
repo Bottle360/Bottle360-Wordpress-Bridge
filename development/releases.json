@@ -828,7 +828,8 @@
             "commit": "0bc83c414",
             "date": "2026-11-05T07:44:28Z",
             "changelog": "Merge pull request #328 from Bottle360/BD-5030-apple-pay-iframe-ios-development",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.24-dev.164",
@@ -999,6 +1000,15 @@
             "commit": "5d37c0c32",
             "date": "2026-11-24T18:20:24Z",
             "changelog": "Merge pull request #393 from Bottle360/BD-4626-free-shipping-estimate-development",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.30-dev.201",
+            "zip": "assets/bottle360bridge-4.5.30-dev.201.zip",
+            "sha256": "79ebb1669ef062ff9baa3a56af8ea9a1b608662326a5259cd4d43184447d280a",
+            "commit": "4a4e34e24",
+            "date": "2026-11-25T21:00:48Z",
+            "changelog": "Merge pull request #397 from Bottle360/BD-5264-tech-sheet-link-development",
             "state_migration": false
         }
     ]
