@@ -798,7 +798,8 @@
             "commit": "4ef74aa1f",
             "date": "2026-11-05T08:29:50Z",
             "changelog": "Merge pull request #330 from Bottle360/BD-5187-route-scroll-hold-staging",
-            "state_migration": false
+            "state_migration": false,
+            "zip_pruned": true
         },
         {
             "version": "4.5.24-rc.166",
@@ -969,6 +970,15 @@
             "commit": "90530c584",
             "date": "2026-11-25T21:01:14Z",
             "changelog": "Merge pull request #398 from Bottle360/BD-5264-tech-sheet-link-staging",
+            "state_migration": false
+        },
+        {
+            "version": "4.5.30-rc.204",
+            "zip": "assets/bottle360bridge-4.5.30-rc.204.zip",
+            "sha256": "2fe24c07d3bba0b3916ea2c8c7fb9447865dd1003e80eff1a9b884df511c9c40",
+            "commit": "b8d3e4856",
+            "date": "2026-11-25T21:17:49Z",
+            "changelog": "Merge pull request #396 from Bottle360/bump-4.5.29-staging",
             "state_migration": false
         }
     ]
